@@ -1,51 +1,42 @@
-from reportlab.platypus import (
-    SimpleDocTemplate, Paragraph, Spacer, PageBreak
-)
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Preformatted, PageBreak
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
 
-file_path = "GitHub_Calendar_Guide.pdf"
-doc = SimpleDocTemplate(file_path, pagesize=A4,
-                        rightMargin=40, leftMargin=40,
-                        topMargin=40, bottomMargin=40)
+doc = SimpleDocTemplate(
+    "GitHub_Calendar_Runbook.pdf",
+    pagesize=A4,
+    rightMargin=40, leftMargin=40,
+    topMargin=40, bottomMargin=40
+)
 
 styles = getSampleStyleSheet()
 
-title_style = ParagraphStyle(
-    "TitleStyle",
+title = ParagraphStyle(
+    "title",
     parent=styles["Title"],
     fontSize=20,
-    spaceAfter=20,
-    textColor=colors.darkblue
+    textColor=colors.darkblue,
+    spaceAfter=18
 )
 
 h1 = ParagraphStyle(
-    "H1",
+    "h1",
     parent=styles["Heading1"],
     fontSize=14,
-    spaceAfter=10,
-    textColor=colors.HexColor("#1f4e79")
-)
-
-h2 = ParagraphStyle(
-    "H2",
-    parent=styles["Heading2"],
-    fontSize=12,
-    spaceAfter=6,
-    textColor=colors.black
+    textColor=colors.HexColor("#1f4e79"),
+    spaceAfter=10
 )
 
 body = ParagraphStyle(
-    "Body",
+    "body",
     parent=styles["BodyText"],
     fontSize=10,
     leading=14
 )
 
 code = ParagraphStyle(
-    "Code",
-    parent=styles["BodyText"],
+    "code",
     fontName="Courier",
     fontSize=9,
     backColor=colors.whitesmoke,
@@ -54,177 +45,306 @@ code = ParagraphStyle(
 
 content = []
 
-def add_title(text):
-    content.append(Paragraph(text, title_style))
+def T(text):
+    content.append(Paragraph(text, title))
     content.append(Spacer(1, 12))
 
-def add_h1(text):
+def H(text):
     content.append(Paragraph(text, h1))
     content.append(Spacer(1, 6))
 
-def add_h2(text):
-    content.append(Paragraph(text, h2))
-
-def add_text(text):
+def P(text):
     content.append(Paragraph(text, body))
-    content.append(Spacer(1, 8))
+    content.append(Spacer(1, 10))
 
-def add_code(text):
-    content.append(Paragraph(f"<pre>{text}</pre>", code))
-    content.append(Spacer(1, 8))
+def C(text):
+    content.append(Preformatted(text, code))
+    content.append(Spacer(1, 12))
 
-# -------------------------
+
+# =========================================================
 # TITEL
-# -------------------------
-add_title("GitHub Calendar Sync – Vollständiger Leitfaden")
+# =========================================================
+T("GitHub Calendar Sync – Vollständiges technisches Runbook")
 
-# -------------------------
-# KAPITEL 1
-# -------------------------
-add_h1("1. Überblick")
+# =========================================================
+# 1 ZIEL
+# =========================================================
+H("1. Ziel des Systems (Warum existiert das?)")
 
-add_text("""
-Dieses Projekt erzeugt automatisch eine iCal-Datei (.ics) mit Python
-und synchronisiert sie über GitHub Actions und GitHub Pages mit Google Kalender.
+P("""
+Dieses System automatisiert die Erstellung einer iCalendar-Datei (.ics)
+aus einem Python-Skript und veröffentlicht diese regelmäßig über GitHub.
 
-Es wird KEIN eigener Server benötigt.
+Die Datei wird anschließend von Google Calendar abonniert.
+
+Wichtig:
+- Kein eigener Server notwendig
+- Vollständig automatisiert
+- Aktualisierung erfolgt zeitgesteuert über GitHub Actions
 """)
 
-# -------------------------
-# KAPITEL 2
-# -------------------------
-add_h1("2. Systemarchitektur")
+# =========================================================
+# 2 ARCHITEKTUR
+# =========================================================
+H("2. Architektur (wie das System funktioniert)")
 
-add_text("""
-Python Skript → erzeugt kalender.ics
-↓
-GitHub Actions → automatischer täglicher / stündlicher Lauf
-↓
-GitHub Repository → speichert Datei
-↓
-GitHub Pages → stellt ICS öffentlich bereit
-↓
-Google Kalender → abonniert URL
+C("""
+Python Script (Logik)
+    ↓
+GitHub Repository (Code + Dateiablage)
+    ↓
+GitHub Actions (automatische Ausführung)
+    ↓
+GitHub Pages (öffentliche URL)
+    ↓
+Google Calendar (liest ICS Datei)
 """)
 
-# -------------------------
-# SCHRITTE 1–4
-# -------------------------
-add_h1("3. GitHub Setup (Schritt 1–4)")
-
-add_text("""
-- GitHub Account erstellen
-- Neues Repository anlegen (public)
-- Repository lokal klonen
-- Python Projektstruktur erstellen
+P("""
+Wichtiges Verständnis:
+GitHub Actions ist kein Server, sondern ein temporärer Runner.
+Er startet, führt das Skript aus und verschwindet wieder.
 """)
 
-add_code("""
+# =========================================================
+# 3 SETUP SCHRITTE
+# =========================================================
+H("3. Schritt 1 – GitHub Konto")
+
+P("""
+Ein GitHub Konto wird benötigt, um:
+- Code zu speichern
+- Automatisierungen (Actions) zu nutzen
+- Datei öffentlich bereitzustellen (Pages)
+""")
+
+# =========================================================
+H("4. Schritt 2 – Repository erstellen")
+
+P("""
+Repository ist der zentrale Speicherort für:
+- Python Skript
+- Workflow Definition
+- erzeugte Kalenderdatei
+""")
+
+P("""
+Wichtig:
+Repository muss PUBLIC sein, sonst funktioniert GitHub Pages nicht ohne Einschränkungen.
+""")
+
+# =========================================================
+H("5. Schritt 3 – Repository klonen")
+
+C("""
 git clone https://github.com/USER/REPO.git
 cd REPO
 """)
 
-# -------------------------
-# SCHRITTE 5–7
-# -------------------------
-add_h1("4. Python & GitHub Actions (Schritt 5–7)")
-
-add_text("""
-requirements.txt definiert externe Abhängigkeiten.
+P("""
+Was passiert hier?
+- Git lädt Projekt lokal herunter
+- du arbeitest auf deinem Rechner
+- Änderungen werden später zurück hochgeladen
 """)
 
-add_code("""
+P("""
+Typischer Fehler:
+GitHub akzeptiert KEINE Passwörter mehr bei HTTPS Git Zugriff.
+→ Lösung: Personal Access Token verwenden
+""")
+
+# =========================================================
+H("6. Schritt 4 – Projektstruktur")
+
+P("""
+Benötigte Dateien:
+- generate_calendar.py → erzeugt ICS Datei
+- requirements.txt → Python Abhängigkeiten
+- .github/workflows/update.yml → Automatisierung
+""")
+
+# =========================================================
+H("7. Schritt 5 – requirements.txt")
+
+P("""
+Diese Datei definiert externe Bibliotheken.
+
+Nur Pakete, die NICHT Teil von Python sind.
+""")
+
+C("""
 requests
 ics
 beautifulsoup4
 reportlab
 """)
 
-add_text("""
-GitHub Actions Workflow führt das Skript regelmäßig aus.
+P("""
+Fehlerquelle:
+Wenn hier etwas fehlt → GitHub Action bricht mit "Module not found" ab.
 """)
 
-add_code("""
+# =========================================================
+H("8. Schritt 6 – Python Skript")
+
+P("""
+Das Skript erzeugt die Datei kalender.ics.
+
+Wichtig:
+- jedes Event benötigt stabile UID
+- Zeit muss korrekt gesetzt sein (UTC empfohlen)
+""")
+
+P("""
+Fehlerquelle:
+Wenn UID sich ändert → Google Calendar erstellt doppelte Termine.
+""")
+
+# =========================================================
+H("9. Schritt 7 – GitHub Actions")
+
+P("""
+GitHub Actions führt das Skript automatisch aus.
+""")
+
+C("""
 on:
   schedule:
     - cron: '0 */6 * * *'
 """)
 
-# -------------------------
-# SCHRITTE 8–9
-# -------------------------
-add_h1("5. Automatisierung (Schritt 8–9)")
-
-add_text("""
-Workflow manuell starten oder automatisch laufen lassen.
-
-GitHub Actions:
-- installiert Dependencies
-- führt Python Skript aus
-- commitet kalender.ics automatisch
+P("""
+Bedeutung:
+- alle 6 Stunden
+- Zeit basiert auf UTC
 """)
 
-# -------------------------
-# SCHRITTE 10–12
-# -------------------------
-add_h1("6. Hosting & Google Kalender (Schritt 10–12)")
+# =========================================================
+H("10. Schritt 8 – Git Befehle (ERKLÄRUNG)")
 
-add_text("""
-GitHub Pages aktiviert eine öffentliche URL:
-
-https://USERNAME.github.io/REPO/kalender.ics
+P("""
+Git arbeitet in 3 Stufen:
 """)
 
-add_text("""
-Google Kalender:
-- „Weitere Kalender → Per URL“
-- ICS Link einfügen
+C("""
+1. Arbeitsverzeichnis
+   → Datei wurde geändert
+
+2. Staging Area (git add)
+   → Änderungen vorgemerkt
+
+3. Commit (git commit)
+   → lokaler Versions-Snapshot
+
+4. Remote (git push)
+   → Upload zu GitHub
 """)
 
-# -------------------------
-# GIT ANHANG
-# -------------------------
-add_h1("7. Anhang – Git Befehle")
+P("""
+Warum diese Trennung?
+→ Du kannst Änderungen sammeln bevor du sie veröffentlichst
+→ Versionen bleiben nachvollziehbar
+""")
 
-add_code("""
-git status
-git add .
-git commit -m "message"
-git push
+# =========================================================
+H("11. Schritt 9 – Git Reset (Fehlerkorrektur)")
 
+P("""
+Reset wird genutzt, wenn etwas falsch gespeichert wurde.
+""")
+
+C("""
 git reset
+→ entfernt Staging
+
 git reset HEAD~1
-git reset HEAD~2
+→ letzten Commit entfernen (Dateien bleiben)
+
+git reset --hard HEAD~1
+→ alles löschen (gefährlich)
 """)
 
-# -------------------------
-# TOKEN ANHANG
-# -------------------------
-add_h1("8. GitHub Login & Token")
-
-add_text("""
-GitHub akzeptiert KEINE Passwörter mehr für Git.
-
-Stattdessen wird ein Personal Access Token verwendet.
+P("""
+Warnung:
+--hard löscht echte Arbeit unwiederbringlich.
 """)
 
-add_code("""
-Username: GitHub Username
-Password: Personal Access Token
+# =========================================================
+H("12. Schritt 10 – GitHub Actions Debugging")
+
+P("""
+Fehleranalyse erfolgt im GitHub Actions Tab.
 """)
 
-add_text("""
-Token erstellen:
-https://github.com/settings/tokens
-
-Benötigte Rechte:
-- repo
-- workflow
+P("""
+Typische Fehler:
+- Module not found → requirements.txt fehlt
+- Authentication failed → Token falsch
+- Workflow permission error → workflow scope fehlt
 """)
 
-# -------------------------
-# EXPORT
-# -------------------------
+# =========================================================
+H("13. Schritt 11 – GitHub Pages")
+
+P("""
+Aktivierung:
+Settings → Pages → Deploy from branch
+""")
+
+P("""
+Ergebnis:
+Öffentliche URL zur ICS Datei
+""")
+
+C("""
+https://USER.github.io/REPO/kalender.ics
+""")
+
+# =========================================================
+H("14. Schritt 12 – Google Kalender")
+
+P("""
+Google Kalender abonniert die ICS Datei per URL.
+""")
+
+P("""
+Wichtig:
+- Aktualisierung kann 1–24 Stunden dauern
+- Google cached externe Kalender
+""")
+
+# =========================================================
+H("15. Cron Übersicht")
+
+C("""
+0 * * * *      → jede Stunde
+0 */2 * * *    → alle 2 Stunden
+0 */6 * * *    → alle 6 Stunden
+0 5 * * *      → täglich 05:00 UTC
+""")
+
+# =========================================================
+H("16. Gesamt-Fehlerdiagnose (WICHTIG)")
+
+P("""
+Wenn etwas nicht funktioniert:
+
+1. Läuft GitHub Action?
+   → sonst kein Update
+
+2. Wird kalender.ics erzeugt?
+   → sonst Python Fehler
+
+3. Ist Pages aktiv?
+   → sonst keine URL
+
+4. Sieht Google alte Daten?
+   → nur Cache Problem
+""")
+
+# =========================================================
 doc.build(content)
 
-print("PDF erstellt: GitHub_Calendar_Guide.pdf")
+print("PDF erstellt: GitHub_Calendar_Runbook.pdf")
