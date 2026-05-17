@@ -3,49 +3,49 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim I\nAuswärts: TASV Hessigheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20260521T194500Z
+DTEND:20260521T174500Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20260521T174500Z
+DTSTART:20260521T154500Z
 SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim I - TASV Hessigheim
 UID:match_id_351072015
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: TSV Wiernsheim II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20260517T150000Z
+DTEND:20260517T130000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20260517T130000Z
+DTSTART:20260517T110000Z
 SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - TSV Wiernsheim II
 UID:match_id_351404163
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim\nAuswärts: VfR Sersheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20260517T170000Z
+DTEND:20260517T150000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20260517T150000Z
+DTSTART:20260517T130000Z
 SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim - VfR Sersheim
 UID:match_id_351402164
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim I\nAuswärts: SV Freudental I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20260613T140000Z
+DTEND:20260613T120000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20260613T120000Z
+DTSTART:20260613T100000Z
 SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim I - SV Freudental I
 UID:match_id_351072023
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim II\nAuswärts: TSV Kleinsachsenheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20260620T123000Z
+DTEND:20260620T103000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20260620T103000Z
+DTSTART:20260620T083000Z
 SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim II - TSV Kleinsachsenheim
 UID:match_id_355102025
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: C-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: SGV Murr I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20260620T170000Z
+DTEND:20260620T150000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20260620T150000Z
+DTSTART:20260620T130000Z
 SUMMARY:[C-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - SGV Murr I
 UID:match_id_352036045
 END:VEVENT
