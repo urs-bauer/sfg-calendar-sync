@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim I\nAuswärts: TASV Hessigheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260521T194500Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260521T174500Z
+SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim I - TASV Hessigheim
+UID:match_id_351072015
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: TSV Wiernsheim II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20260517T150000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
@@ -16,6 +24,22 @@ LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20260517T150000Z
 SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim - VfR Sersheim
 UID:match_id_351402164
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim I\nAuswärts: SV Freudental I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260613T140000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260613T120000Z
+SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim I - SV Freudental I
+UID:match_id_351072023
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim II\nAuswärts: TSV Kleinsachsenheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260620T123000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260620T103000Z
+SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim II - TSV Kleinsachsenheim
+UID:match_id_355102025
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: C-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: SGV Murr I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
