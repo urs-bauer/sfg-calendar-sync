@@ -10,6 +10,7 @@ import argparse
 import sys
 from bs4 import BeautifulSoup
 import re
+from zoneinfo import ZoneInfo
 
 # Für PDF
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
@@ -137,6 +138,7 @@ matches = []
 
 # iCal
 calendar = Calendar()
+calendar.timezone = "Europe/Berlin"
 events = 0
 
 # Alle 'row-competition'-Zeilen durchgehen
@@ -178,6 +180,9 @@ for row in soup.find_all("tr", class_="row-competition"):
         except ValueError:
             print(f"Warnung: Konnte Datum/Uhrzeit nicht parsen: '{date_time_text}'")
             dt = None
+
+        # Zeitzone ergänzen
+        dt = dt.replace(tzinfo=ZoneInfo("Europe/Berlin"))
 
         # Jugend / Wettbewerb
         team_td = row.find("td", class_="column-team")
@@ -255,7 +260,7 @@ for row in soup.find_all("tr", class_="row-competition"):
         if "Steingrube" in venue:
             event = Event()
             event.uid = uid
-            event.name = title
+            event.name = title         
             event.begin = dt
             event.end = dt + timedelta(hours=2)
             event.location = venue
