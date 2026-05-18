@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim I\nAuswärts: SV Freudental I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim I\nAuswärts: SV Freudental I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh\nGenerated: 2026-05-18 07:30:25.835199
 DTEND:20260613T120000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20260613T100000Z
@@ -10,7 +10,7 @@ SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim I - SV Freudental I
 UID:match_id_351072023
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim I\nAuswärts: TASV Hessigheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim I\nAuswärts: TASV Hessigheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh\nGenerated: 2026-05-18 07:30:25.834230
 DTEND:20260521T174500Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20260521T154500Z
@@ -18,7 +18,7 @@ SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim I - TASV Hessigheim
 UID:match_id_351072015
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim II\nAuswärts: TSV Kleinsachsenheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim II\nAuswärts: TSV Kleinsachsenheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh\nGenerated: 2026-05-18 07:30:25.835466
 DTEND:20260620T103000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20260620T083000Z
@@ -26,7 +26,7 @@ SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim II - TSV Kleinsachsen
 UID:match_id_355102025
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: C-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: SGV Murr I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DESCRIPTION:Liga: C-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: SGV Murr I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh\nGenerated: 2026-05-18 07:30:25.835786
 DTEND:20260620T150000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20260620T130000Z
