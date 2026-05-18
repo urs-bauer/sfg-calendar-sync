@@ -1,3 +1,5 @@
+# packages needed for py-script
+# this file instructs the github action (webserver) which additional python packages are needed
 requests
 ics
 beautifulsoup4
