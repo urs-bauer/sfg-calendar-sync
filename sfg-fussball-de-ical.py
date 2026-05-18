@@ -268,7 +268,7 @@ for row in soup.find_all("tr", class_="row-competition"):
             if venue:
                 desc_lines.append(f"Ort: {venue}")
             event.description = "\n".join(desc_lines)
-            event.description += f"\nGenerated: {datetime.now()}" #for debugging only, use datetime so that ical-files is changed 
+            #event.description += f"\nGenerated: {datetime.now()}" #for debugging only, use datetime so that ical-files is changed 
 
             calendar.events.add(event)
             events += 1
