@@ -22,10 +22,14 @@ from reportlab.lib import colors
 # -------------------------------
 # Kommandozeilen-Argumente
 # -------------------------------
+
+default_time = "2026-05-01"
 parser = argparse.ArgumentParser(description="Exportiere Heimspiele als iCal-Datei von fussball.de")
 parser.add_argument("output", help="Name der ICS-Datei, z.B. grosssachsenheim.ics")
-parser.add_argument("--start", help="Startdatum YYYY-MM-DD", default=datetime.today().strftime("%Y-%m-%d"))
-parser.add_argument("--end", help="Enddatum YYYY-MM-DD", default=(datetime.today() + timedelta(days=365)).strftime("%Y-%m-%d"))
+#parser.add_argument("--start", help="Startdatum YYYY-MM-DD", default=datetime.today().strftime("%Y-%m-%d"))
+parser.add_argument("--start", help="Startdatum YYYY-MM-DD", default=default_time)
+#parser.add_argument("--end", help="Enddatum YYYY-MM-DD", default=(datetime.today() + timedelta(days=365)).strftime("%Y-%m-%d"))
+parser.add_argument("--end", help="Enddatum YYYY-MM-DD", default=default_time + timedelta(days=200)).strftime("%Y-%m-%d"))
 parser.add_argument(
     "--verbose",
     action='store_const',   # Speichert einen konstanten Wert, wenn das Flag gesetzt ist
