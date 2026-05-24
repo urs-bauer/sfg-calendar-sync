@@ -70,7 +70,7 @@ CLUB_ID = "00ES8GNAUG00009PVV0AG08LVUPGND5I" #SFG
 #E-Jugend E2 : 02GMPEBCOS000000VS5489B2VSQM9PFD
 
 # Anzahl an Spielen die abgerufen werden sollen
-MAX_GAMES = 20  # kann beliebig angepasst werden
+MAX_GAMES = 200  # kann beliebig angepasst werden
 
 # ----------------
 # Spielort abrufen
