@@ -90,11 +90,35 @@ SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim - VfR Sersheim
 UID:match_id_351402164
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim I\nAuswärts: SV Freudental I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260613T120000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260613T100000Z
+SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim I - SV Freudental I
+UID:match_id_351072023
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim II\nAuswärts: TSV Kleinsachsenheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260620T103000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260620T083000Z
+SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim II - TSV Kleinsachsenheim
+UID:match_id_355102025
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: C-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: FV Kirchheim I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20260516T150000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20260516T130000Z
 SUMMARY:[C-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - FV Kirchheim I
 UID:match_id_352036035
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: C-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: SGV Murr I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260620T150000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260620T130000Z
+SUMMARY:[C-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - SGV Murr I
+UID:match_id_352036045
 END:VEVENT
 END:VCALENDAR
