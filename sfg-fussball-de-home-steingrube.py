@@ -299,7 +299,7 @@ print(f"# iCal Datei erstellt: {OUTPUT}")
 # -------------------------------
 # PDF-Ausgabe erstellen
 # -------------------------------
-OUTPUT_PDF = "spiele.pdf"
+OUTPUT_PDF = "steingrube.pdf"
 
 doc = SimpleDocTemplate(OUTPUT_PDF, pagesize=A4)
 styles = getSampleStyleSheet()
