@@ -161,7 +161,8 @@ for row in soup.find_all("tr", class_="row-competition"):
     if date_time_text == "":
         date_time_text = "00:00"
     
-    print(f"date_time_text: '{date_time_text}'")
+    if VERBOSE:
+        print(f"date_time_text: '{date_time_text}'")
     
     if not "**" in date_time_text:  # Datum enthaelt "**" wenn mehr Datensaetze abgerufen werden, als Spiele hinterlegt sind
 
