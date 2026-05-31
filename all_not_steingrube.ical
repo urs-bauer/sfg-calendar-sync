@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: SGM Nussdorf/JSG Kreuzbach\nOrt: Rasen II\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20260517T103000Z
+LOCATION:Rasen II\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20260517T083000Z
+SUMMARY:[B-Junioren | Kreisstaffel] SGM Sachsenheim - SGM Nussdorf/JSG Kreuzbach
+UID:match_id_350574035
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SV Sternenfels\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Am Sandberg\, Rasen I\, Sandberg\, 75447 Sternenfels
+DTEND:20260614T103000Z
+LOCATION:Rasenplatz\, Am Sandberg\, Rasen I\, Sandberg\, 75447 Sternenfels
+DTSTART:20260614T083000Z
+SUMMARY:[B-Junioren | Kreisstaffel] SV Sternenfels - SGM Sachsenheim
+UID:match_id_350574037
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: C-Junioren | Kreisleistungsstaffel\nHeim: SGM Steinheim/Erdmannhausen I\nAuswärts: SGM  Sachsenheim I\nOrt: Rasenplatz\, Auf der Schray Pl. 2\, Herdweg\, 71729 Erdmannhausen
+DTEND:20260613T150000Z
+LOCATION:Rasenplatz\, Auf der Schray Pl. 2\, Herdweg\, 71729 Erdmannhausen
+DTSTART:20260613T130000Z
+SUMMARY:[C-Junioren | Kreisleistungsstaffel] SGM Steinheim/Erdmannhausen I - SGM  Sachsenheim I
+UID:match_id_352036037
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM  Sachsenheim I\nAuswärts: ELBO Cup 2026\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20260606T124500Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20260606T104500Z
+SUMMARY:[D-Junioren | Bezirksfreundschaftsspiele] SGM  Sachsenheim I - ELBO Cup 2026
+UID:match_id_550068491
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SV Iptingen II\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20260503T130000Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20260503T110000Z
+SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SV Iptingen II
+UID:match_id_351404153
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim\nAuswärts: SGM SC Hohenhaslach-SV Freudental II\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20260503T150000Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20260503T130000Z
+SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim - SGM SC Hohenhaslach-SV Freudental II
+UID:match_id_351402154
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: TSV Wiernsheim\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Lindenstrasse 60\, Lindenstr. 60\, 75446 Wiernsheim
+DTEND:20260510T150000Z
+LOCATION:Rasenplatz\, Lindenstrasse 60\, Lindenstr. 60\, 75446 Wiernsheim
+DTSTART:20260510T130000Z
+SUMMARY:[Herren | Kreisliga B] TSV Wiernsheim - SGM Sachsenheim
+UID:match_id_351402156
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SV Riet\nAuswärts: SGM Sachsenheim II\nOrt: Rasenplatz\, Eberdinger Strasse\, Eberdinger Str.\, 71665 Vaihingen an der Enz
+DTEND:20260510T150000Z
+LOCATION:Rasenplatz\, Eberdinger Strasse\, Eberdinger Str.\, 71665 Vaihingen an der Enz
+DTSTART:20260510T130000Z
+SUMMARY:[Herren | Kreisliga B] SV Riet - SGM Sachsenheim II
+UID:match_id_351404157
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: FV Kirchheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Kunstrasenplatz\, Sportpark Fronberg\, Hohensteiner Str.\, 74366 Kirchheim am Neckar
+DTEND:20260510T103000Z
+LOCATION:Kunstrasenplatz\, Sportpark Fronberg\, Hohensteiner Str.\, 74366 Kirchheim am Neckar
+DTSTART:20260510T083000Z
+SUMMARY:[D-Junioren | Kreisstaffel] FV Kirchheim II - SGM  Sachsenheim II
+UID:match_id_350970021
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SpVgg Bissingen I\nAuswärts: Spfr. Großsachsenheim I\nOrt: Kunstrasenplatz\, Kunstrasenplatz Westendstrasse\, Westendstr. 35\, 74321 Bietigheim-Bissingen
+DTEND:20260516T120000Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz Westendstrasse\, Westendstr. 35\, 74321 Bietigheim-Bissingen
+DTSTART:20260516T100000Z
+SUMMARY:[E-Junioren | Kreisstaffel] SpVgg Bissingen I - Spfr. Großsachsenheim I
+UID:match_id_351072020
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SGM Roßwag/Mühlhausen I\nAuswärts: Spfr. Großsachsenheim II\nOrt: Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen an der Enz
+DTEND:20260613T120000Z
+LOCATION:Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen an der Enz
+DTSTART:20260613T100000Z
+SUMMARY:[E-Junioren | Kreisstaffel] SGM Roßwag/Mühlhausen I - Spfr. Großsachsenheim II
+UID:match_id_355102021
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: TSV Ph. Lomersheim I\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Am Wässerle Kunstr.\, Am Wässerle\, 75417 Mühlacker
+DTEND:20260509T133000Z
+LOCATION:Kunstrasenplatz\, Am Wässerle Kunstr.\, Am Wässerle\, 75417 Mühlacker
+DTSTART:20260509T113000Z
+SUMMARY:[D-Junioren | Kreisstaffel] TSV Ph. Lomersheim I - SGM  Sachsenheim I
+UID:match_id_352049024
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim II\nAuswärts: TSV Ph. Lomersheim II\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20260516T133000Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20260516T113000Z
+SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim II - TSV Ph. Lomersheim II
+UID:match_id_350970025
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SGM TuS Freiberg/GSV Pleidelsheim I\nAuswärts: Spfr. Großsachsenheim I\nOrt: Rasenplatz\, Lugaufsportplatz\, Gartenstr.\, Gartenstr.\, 71691 Freiberg am Neckar
+DTEND:20260620T110000Z
+LOCATION:Rasenplatz\, Lugaufsportplatz\, Gartenstr.\, Gartenstr.\, 71691 Freiberg am Neckar
+DTSTART:20260620T090000Z
+SUMMARY:[E-Junioren | Kreisstaffel] SGM TuS Freiberg/GSV Pleidelsheim I - Spfr. Großsachsenheim I
+UID:match_id_351072026
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: TSV Münchingen II\nAuswärts: SGM Sachsenheim\nOrt: Kunstrasenplatz\, Kunstrasen TSV Münchingen\, Stuttgarter Str.\, 70825 Korntal-Münchingen
+DTEND:20260509T171500Z
+LOCATION:Kunstrasenplatz\, Kunstrasen TSV Münchingen\, Stuttgarter Str.\, 70825 Korntal-Münchingen
+DTSTART:20260509T151500Z
+SUMMARY:[B-Junioren | Kreisstaffel] TSV Münchingen II - SGM Sachsenheim
+UID:match_id_350574029
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: C-Junioren | Kreisleistungsstaffel\nHeim: SV Pattonville\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Kunstrasenplatz Pattonville\, John-F.-Kennedy-Allee 8\, 70806 Kornwestheim
+DTEND:20260509T150000Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz Pattonville\, John-F.-Kennedy-Allee 8\, 70806 Kornwestheim
+DTSTART:20260509T130000Z
+SUMMARY:[C-Junioren | Kreisleistungsstaffel] SV Pattonville - SGM  Sachsenheim I
+UID:match_id_352036029
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: TSV Münchingen II\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Lindenstrasse 60\, Lindenstr. 60\, 75446 Wiernsheim
+DTEND:20260510T103000Z
+LOCATION:Rasenplatz\, Lindenstrasse 60\, Lindenstr. 60\, 75446 Wiernsheim
+DTSTART:20260510T083000Z
+SUMMARY:[B-Junioren | Kreisstaffel] TSV Münchingen II - SGM Sachsenheim
+UID:match_id_350574029
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: TSF Ditzingen III\nAuswärts: SGM  Sachsenheim III\nOrt: Rasenplatz\, Glemsaue-Gröningerstr.\, Gröninger Str.\, 71254 Ditzingen
+DTEND:20260516T133000Z
+LOCATION:Rasenplatz\, Glemsaue-Gröningerstr.\, Gröninger Str.\, 71254 Ditzingen
+DTSTART:20260516T113000Z
+SUMMARY:[D-Junioren | Kreisstaffel] TSF Ditzingen III - SGM  Sachsenheim III
+UID:match_id_351625028
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim II\nAuswärts: SGM SC Hohenhaslach/SV Freudental\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20260505T174500Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20260505T154500Z
+SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim II - SGM SC Hohenhaslach/SV Freudental
+UID:match_id_350970013
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: SGM Asperg/Möglingen *\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20260503T103000Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20260503T083000Z
+SUMMARY:[B-Junioren | Kreisstaffel] SGM Sachsenheim - SGM Asperg/Möglingen *
+UID:match_id_350574015
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SGM TSV Enzweihingen/Vaihingen Süd II\nAuswärts: Spfr. Großsachsenheim II\nOrt: Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der Enz
+DTEND:20260516T120000Z
+LOCATION:Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der Enz
+DTSTART:20260516T100000Z
+SUMMARY:[E-Junioren | Kreisstaffel] SGM TSV Enzweihingen/Vaihingen Süd II - Spfr. Großsachsenheim II
+UID:match_id_355102018
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim\nAuswärts: VfB Vaihingen/Enz II Flex\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20260607T150000Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20260607T130000Z
+SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim - VfB Vaihingen/Enz II Flex
+UID:match_id_351402180
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: TSV Enzweihingen II\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der Enz
+DTEND:20260531T130000Z
+LOCATION:Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der Enz
+DTSTART:20260531T110000Z
+SUMMARY:[Herren | Kreisliga B] TSV Enzweihingen II - SGM Sachsenheim
+UID:match_id_351402170
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: spielfrei\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20260531T000000Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20260530T220000Z
+SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - spielfrei
+UID:match_id_351404171
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SGM Gemmrigheim/Walheim II\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20260607T123000Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20260607T103000Z
+SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SGM Gemmrigheim/Walheim II
+UID:match_id_351404179
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: spielfrei
+DTEND:20260621T000000Z
+DTSTART:20260620T220000Z
+SUMMARY:[B-Junioren | Kreisstaffel] SGM Sachsenheim - spielfrei
+UID:match_id_350574045
+END:VEVENT
+END:VCALENDAR
