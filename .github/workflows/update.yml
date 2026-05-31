@@ -25,8 +25,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Kalender erzeugen
-        run: python sfg-fussball-de-ical.py out.ical
-        run: python sfg-fussball-de-all-matches.py all_matches.ical
+        run: |
+          python sfg-fussball-de-ical.py out.ical
+          python sfg-fussball-de-all-matches.py all_matches.ical
 
       - name: Änderungen committen
         run: |
