@@ -156,6 +156,12 @@ for row in soup.find_all("tr", class_="row-competition"):
     # Beispiel für Parsing von date_time_text
     date_time_text = date_time_text.strip()  # z.B. "16.05.26 |" oder "16.05.26 |10:30"
 
+    # wenn "column-date" leer ist, dann hat eine Mannschaft spielfrei (last_date -> setze die Zeit auf 00:00
+    if date_time_text == "":
+        date_time_text = "00:00"
+    
+    print(f"date_time_text: '{date_time_text}'")
+    
     if not "**" in date_time_text:  # Datum enthaelt "**" wenn mehr Datensaetze abgerufen werden, als Spiele hinterlegt sind
 
         try:
@@ -170,7 +176,7 @@ for row in soup.find_all("tr", class_="row-competition"):
 
                 if time_part:  # Uhrzeit vorhanden
                     dt = datetime.strptime(f"{date_part} {time_part}", "%d.%m.%y %H:%M")
-                else:  # keine Uhrzeit -> 00:00 Uhr
+                else:  # keine Uhrzeit -> 00:00 Uhr (Mannschaft hat spielfrei)
                     dt = datetime.strptime(date_part, "%d.%m.%y")
                     dt = dt.replace(hour=0, minute=0)
 
