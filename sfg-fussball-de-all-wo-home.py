@@ -24,7 +24,7 @@ from reportlab.lib import colors
 # -------------------------------
 
 default_time = "2026-05-01"
-parser = argparse.ArgumentParser(description="Exportiere Heimspiele als iCal-Datei von fussball.de")
+parser = argparse.ArgumentParser(description="Exportiere alle Spiele die nicht in der Steingrube sind als iCal-Datei von fussball.de")
 parser.add_argument("output", help="Name der ICS-Datei, z.B. grosssachsenheim.ics")
 #parser.add_argument("--start", help="Startdatum YYYY-MM-DD", default=datetime.today().strftime("%Y-%m-%d"))
 parser.add_argument("--start", help="Startdatum YYYY-MM-DD", default=datetime.strptime(default_time, "%Y-%m-%d"))
