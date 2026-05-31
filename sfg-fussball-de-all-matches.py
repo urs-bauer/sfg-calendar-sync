@@ -265,21 +265,20 @@ for row in soup.find_all("tr", class_="row-competition"):
             uid = hashlib.md5(f"{home_club}_{guest_club}".encode()).hexdigest()
 
         # Event erstellen
-        if "Steingrube" in venue:
-            event = Event()
-            event.uid = uid
-            event.name = title         
-            event.begin = dt
-            event.end = dt + timedelta(hours=2)
-            event.location = venue
-            desc_lines = [f"Liga: {youth_team}", f"Heim: {home_club}", f"Auswärts: {guest_club}"]
-            if venue:
-                desc_lines.append(f"Ort: {venue}")
-            event.description = "\n".join(desc_lines)
-            #event.description += f"\nGenerated: {datetime.now()}" #for debugging only, use datetime so that ical-files is changed 
+        event = Event()
+        event.uid = uid
+        event.name = title         
+        event.begin = dt
+        event.end = dt + timedelta(hours=2)
+        event.location = venue
+        desc_lines = [f"Liga: {youth_team}", f"Heim: {home_club}", f"Auswärts: {guest_club}"]
+        if venue:
+            desc_lines.append(f"Ort: {venue}")
+        event.description = "\n".join(desc_lines)
+        #event.description += f"\nGenerated: {datetime.now()}" #for debugging only, use datetime so that ical-files is changed 
 
-            calendar.events.add(event)
-            events += 1
+        calendar.events.add(event)
+        events += 1
 
 # Ergebnis anzeigen
 if VERBOSE:
@@ -296,21 +295,21 @@ with open(OUTPUT, "w", encoding="utf-8") as f:
     f.writelines(calendar.serialize_iter())
 
 print()
-print(f"{events} Heimspiele gefunden")
+print(f"{events} Spiele gefunden")
 print("FERTIG")
 print(f"# iCal Datei erstellt: {OUTPUT}")
 
 # -------------------------------
 # PDF-Ausgabe erstellen
 # -------------------------------
-OUTPUT_PDF = "spiele.pdf"
+OUTPUT_PDF = "alle_spiele.pdf"
 
 doc = SimpleDocTemplate(OUTPUT_PDF, pagesize=A4)
 styles = getSampleStyleSheet()
 elements = []
 
 # Überschrift
-elements.append(Paragraph("Spielplan Heimspiele", styles['Title']))
+elements.append(Paragraph("Vereins-Spielplan", styles['Title']))
 elements.append(Spacer(1, 12))
 
 # Eigene Styles
