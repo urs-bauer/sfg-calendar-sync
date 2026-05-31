@@ -28,7 +28,7 @@ jobs:
         run: |
           python sfg-fussball-de-home-steingrube.py out.ical
           python sfg-fussball-de-all-matches.py all_matches.ical
-          python sfg-fussball-de-all-not-home-steingrube.py all_not_steingrube.ical
+          python sfg-fussball-de-all-not-steingrube.py all_not_steingrube.ical
 
       - name: Änderungen committen
         run: |
