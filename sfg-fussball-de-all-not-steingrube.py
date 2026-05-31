@@ -112,9 +112,8 @@ HEADERS = {
         "Gecko/20100101 Firefox/128.0"
     )
 }
-
-if VERBOSE:
-    print(f"Lade Spiele von {START_DATE} bis {END_DATE} von fussball.de ...")
+ 
+print(f"Lade Spiele von {START_DATE} bis {END_DATE} von fussball.de ...")
 
 # request json data from fussball.de (URL)
 try:
