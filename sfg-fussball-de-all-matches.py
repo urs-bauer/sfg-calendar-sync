@@ -223,6 +223,10 @@ for row in soup.find_all("tr", class_="row-competition"):
             for clubname in ["TSV Kleinsachsenheim", "Spfr Großsachsenheim", "(Spfr Großs)"]:
                 home_club = home_club.replace(clubname, "").strip()
 
+        if "SGM" in guest_club:
+            for clubname in ["TSV Kleinsachsenheim", "Spfr Großsachsenheim", "(Spfr Großs)"]:
+                guest_club = guest_club.replace(clubname, "").strip()
+              
         # Ort aus 'row-venue'
         venue_row = next_row.find_next_sibling("tr", class_="row-venue") if next_row else None
         venue_td = venue_row.find("td", colspan="3") if venue_row else None
