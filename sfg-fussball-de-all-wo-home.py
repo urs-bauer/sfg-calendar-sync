@@ -272,20 +272,21 @@ for row in soup.find_all("tr", class_="row-competition"):
             uid = hashlib.md5(f"{home_club}_{guest_club}".encode()).hexdigest()
 
         # Event erstellen
-        event = Event()
-        event.uid = uid
-        event.name = title         
-        event.begin = dt
-        event.end = dt + timedelta(hours=2)
-        event.location = venue
-        desc_lines = [f"Liga: {youth_team}", f"Heim: {home_club}", f"Auswärts: {guest_club}"]
-        if venue:
-            desc_lines.append(f"Ort: {venue}")
-        event.description = "\n".join(desc_lines)
-        #event.description += f"\nGenerated: {datetime.now()}" #for debugging only, use datetime so that ical-files is changed 
+        if "Steingrube" in venue:
+            event = Event()
+            event.uid = uid
+            event.name = title         
+            event.begin = dt
+            event.end = dt + timedelta(hours=2)
+            event.location = venue
+            desc_lines = [f"Liga: {youth_team}", f"Heim: {home_club}", f"Auswärts: {guest_club}"]
+            if venue:
+                desc_lines.append(f"Ort: {venue}")
+            event.description = "\n".join(desc_lines)
+            #event.description += f"\nGenerated: {datetime.now()}" #for debugging only, use datetime so that ical-files is changed 
 
-        calendar.events.add(event)
-        events += 1
+            calendar.events.add(event)
+            events += 1
 
 # Ergebnis anzeigen
 if VERBOSE:
