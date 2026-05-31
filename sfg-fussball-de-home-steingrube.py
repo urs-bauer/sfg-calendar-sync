@@ -156,6 +156,13 @@ for row in soup.find_all("tr", class_="row-competition"):
     # Beispiel für Parsing von date_time_text
     date_time_text = date_time_text.strip()  # z.B. "16.05.26 |" oder "16.05.26 |10:30"
 
+    # wenn "column-date" leer ist, dann hat eine Mannschaft spielfrei (last_date -> setze die Zeit auf 00:00
+    if date_time_text == "":
+        date_time_text = "00:00"
+    
+    if VERBOSE:
+        print(f"date_time_text: '{date_time_text}'")
+    
     if not "**" in date_time_text:  # Datum enthaelt "**" wenn mehr Datensaetze abgerufen werden, als Spiele hinterlegt sind
 
         try:
