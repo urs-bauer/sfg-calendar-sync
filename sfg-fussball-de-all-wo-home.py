@@ -113,7 +113,8 @@ HEADERS = {
     )
 }
 
-print(f"Lade Spiele von {START_DATE} bis {END_DATE} von fussball.de ...")
+if VERBOSE:
+    print(f"Lade Spiele von {START_DATE} bis {END_DATE} von fussball.de ...")
 
 # request json data from fussball.de (URL)
 try:
