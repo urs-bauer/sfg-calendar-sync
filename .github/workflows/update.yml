@@ -37,7 +37,7 @@ jobs:
 
           git add out.ical
           git add all_matches.ical
-          gut add all_not_steingrube.ical
+          git add all_not_steingrube.ical
           
 
           git commit -m "Automatisches Kalenderupdate" || echo "Keine Änderungen"
