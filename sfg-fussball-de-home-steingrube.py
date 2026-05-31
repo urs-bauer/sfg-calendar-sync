@@ -299,7 +299,7 @@ with open(OUTPUT, "w", encoding="utf-8") as f:
     f.writelines(calendar.serialize_iter())
 
 print()
-print(f"{events} Heimspiele gefunden")
+print(f"{events} Heimspiele in der Steingrube gefunden")
 print("FERTIG")
 print(f"# iCal Datei erstellt: {OUTPUT}")
 
