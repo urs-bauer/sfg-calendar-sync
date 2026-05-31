@@ -26,6 +26,7 @@ jobs:
 
       - name: Kalender erzeugen
         run: python sfg-fussball-de-ical.py out.ical
+        run: python sfg-fussball-de-all-matches.py all_matches.ical
 
       - name: Änderungen committen
         run: |
@@ -33,6 +34,8 @@ jobs:
           git config user.email github-actions@github.com
 
           git add out.ical
+          git add all_matches.ical
+          
 
           git commit -m "Automatisches Kalenderupdate" || echo "Keine Änderungen"
 
