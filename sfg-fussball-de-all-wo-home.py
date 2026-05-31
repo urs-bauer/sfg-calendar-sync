@@ -272,7 +272,7 @@ for row in soup.find_all("tr", class_="row-competition"):
             uid = hashlib.md5(f"{home_club}_{guest_club}".encode()).hexdigest()
 
         # Event erstellen
-        if "Steingrube" in venue:
+        if "Steingrube" not in venue:
             event = Event()
             event.uid = uid
             event.name = title         
