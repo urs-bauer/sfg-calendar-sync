@@ -146,6 +146,14 @@ SUMMARY:[D-Junioren | Kreisstaffel] TSF Ditzingen III - SGM  Sachsenheim III
 UID:match_id_351625028
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: GSV Hemmingen\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
+DTEND:20260823T150000Z
+LOCATION:Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
+DTSTART:20260823T130000Z
+SUMMARY:[Herren | Bezirksfreundschaftsspiele] GSV Hemmingen - SGM Sachsenheim
+UID:match_id_550011033
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim II\nAuswärts: SGM SC Hohenhaslach/SV Freudental\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTEND:20260505T174500Z
 LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
@@ -202,8 +210,9 @@ SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SGM Gemmrigheim/Walheim II
 UID:match_id_351404179
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: spielfrei
+DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: spielfrei\nOrt: Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
 DTEND:20260621T000000Z
+LOCATION:Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
 DTSTART:20260620T220000Z
 SUMMARY:[B-Junioren | Kreisstaffel] SGM Sachsenheim - spielfrei
 UID:match_id_350574045

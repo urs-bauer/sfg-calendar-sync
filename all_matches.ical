@@ -218,6 +218,14 @@ SUMMARY:[E-Junioren | Kreisstaffel] SGM TuS Freiberg/GSV Pleidelsheim I - Spfr. 
 UID:match_id_351072026
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: GSV Hemmingen\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
+DTEND:20260823T150000Z
+LOCATION:Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
+DTSTART:20260823T130000Z
+SUMMARY:[Herren | Bezirksfreundschaftsspiele] GSV Hemmingen - SGM Sachsenheim
+UID:match_id_550011033
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SGM Roßwag/Mühlhausen I\nAuswärts: Spfr. Großsachsenheim II\nOrt: Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen an der Enz
 DTEND:20260613T120000Z
 LOCATION:Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen an der Enz
@@ -322,8 +330,9 @@ SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SGM Gemmrigheim/Walheim II
 UID:match_id_351404179
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: spielfrei
+DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: spielfrei\nOrt: Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
 DTEND:20260621T000000Z
+LOCATION:Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
 DTSTART:20260620T220000Z
 SUMMARY:[B-Junioren | Kreisstaffel] SGM Sachsenheim - spielfrei
 UID:match_id_350574045
