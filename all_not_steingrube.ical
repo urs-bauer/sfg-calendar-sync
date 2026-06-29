@@ -218,9 +218,17 @@ SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SGM Gemmrigheim/Walheim II
 UID:match_id_351404179
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: spielfrei\nOrt: Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
+DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: SGM Riexingen\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Jahnstraße\, Rasen I\, Jahnstr.\, 71706 Markgröningen
+DTEND:20260818T193000Z
+LOCATION:Rasenplatz\, Jahnstraße\, Rasen I\, Jahnstr.\, 71706 Markgröningen
+DTSTART:20260818T173000Z
+SUMMARY:[Herren | Bezirksfreundschaftsspiele] SGM Riexingen - SGM Sachsenheim
+UID:match_id_550011182
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: spielfrei\nOrt: Rasenplatz\, Jahnstraße\, Rasen I\, Jahnstr.\, 71706 Markgröningen
 DTEND:20260621T000000Z
-LOCATION:Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
+LOCATION:Rasenplatz\, Jahnstraße\, Rasen I\, Jahnstr.\, 71706 Markgröningen
 DTSTART:20260620T220000Z
 SUMMARY:[B-Junioren | Kreisstaffel] SGM Sachsenheim - spielfrei
 UID:match_id_350574045
