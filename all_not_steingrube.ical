@@ -186,6 +186,14 @@ SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim - VfB Vaihingen/Enz II Flex
 UID:match_id_351402180
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: SpVgg Bissingen\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20260704T180000Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20260704T160000Z
+SUMMARY:[B-Junioren | Kreisstaffel] SGM Sachsenheim - SpVgg Bissingen
+UID:match_id_350240001
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: TSV Enzweihingen II\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der Enz
 DTEND:20260531T130000Z
 LOCATION:Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der Enz
@@ -216,5 +224,13 @@ LOCATION:Rasenplatz\, Jahnstraße\, Rasen I\, Jahnstr.\, 71706 Markgröningen
 DTSTART:20260818T173000Z
 SUMMARY:[Herren | Bezirksfreundschaftsspiele] SGM Riexingen - SGM Sachsenheim
 UID:match_id_550011182
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: spielfrei\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20260621T000000Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20260620T220000Z
+SUMMARY:[B-Junioren | Kreisstaffel] SGM Sachsenheim - spielfrei
+UID:match_id_350574045
 END:VEVENT
 END:VCALENDAR
