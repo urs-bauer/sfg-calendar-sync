@@ -130,6 +130,22 @@ SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim I - TASV Hessigheim
 UID:match_id_351072015
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: TSV Mühlhausen Enz\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20261004T130000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20261004T110000Z
+SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - TSV Mühlhausen Enz
+UID:match_id_351402019
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga A\; Kreisliga\nHeim: SGM Sachsenheim\nAuswärts: SV Horrheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20261004T150000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20261004T130000Z
+SUMMARY:[Herren | Kreisliga A\; Kreisliga] SGM Sachsenheim - SV Horrheim
+UID:match_id_355935019
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: SpVgg Bissingen\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20260704T180000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
@@ -152,5 +168,21 @@ LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20260620T130000Z
 SUMMARY:[C-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - SGV Murr I
 UID:match_id_352036045
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SGM FC Gündelbach/TSV Häfnerhaslach\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20261101T133000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20261101T113000Z
+SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SGM FC Gündelbach/TSV Häfnerhaslach
+UID:match_id_351402047
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga A\; Kreisliga\nHeim: SGM Sachsenheim\nAuswärts: FC Mezopotamya Bietigheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20261101T153000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20261101T133000Z
+SUMMARY:[Herren | Kreisliga A\; Kreisliga] SGM Sachsenheim - FC Mezopotamya Bietigheim
+UID:match_id_355935047
 END:VEVENT
 END:VCALENDAR
