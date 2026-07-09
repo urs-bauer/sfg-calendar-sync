@@ -266,6 +266,14 @@ SUMMARY:[Herren | Bezirksfreundschaftsspiele] GSV Hemmingen - SGM Sachsenheim
 UID:match_id_550011033
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: B-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM   Sachsenheim\nAuswärts: SGM VfB Vaihingen/Enz/TSV Enzweihingen/TSV Aurich II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260912T110000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260912T090000Z
+SUMMARY:[B-Junioren | Bezirksfreundschaftsspiele] SGM   Sachsenheim - SGM VfB Vaihingen/Enz/TSV Enzweihingen/TSV Aurich II
+UID:match_id_550017035
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM   Sachsenheim\nAuswärts: TSV Münchingen II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20260919T110000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
