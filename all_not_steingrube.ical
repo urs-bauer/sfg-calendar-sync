@@ -186,6 +186,14 @@ SUMMARY:[D-Junioren | Kreisstaffel] TSF Ditzingen III - SGM  Sachsenheim III
 UID:match_id_351625028
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: B-Junioren | Landesfreundschaftsspiele\nHeim: DJK Ludwigsburg I\nAuswärts: SGM   Sachsenheim\nOrt: Kunstrasenplatz\, Corneliusstraße 48 Kunstrapl.\, Corneliusstr. 48\, 71640 Ludwigsburg
+DTEND:20260725T110000Z
+LOCATION:Kunstrasenplatz\, Corneliusstraße 48 Kunstrapl.\, Corneliusstr. 48\, 71640 Ludwigsburg
+DTSTART:20260725T090000Z
+SUMMARY:[B-Junioren | Landesfreundschaftsspiele] DJK Ludwigsburg I - SGM   Sachsenheim
+UID:match_id_550023233
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: GSV Hemmingen\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
 DTEND:20260823T150000Z
 LOCATION:Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
@@ -274,9 +282,9 @@ SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim - VfB Vaihingen/Enz II Flex
 UID:match_id_351402180
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: SpVgg Bissingen\nOrt: Rasenplatz\, Metterstrasse\, Metterstr.\, 71665 Vaihingen an der Enz
+DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: SpVgg Bissingen\nOrt: Kunstrasenplatz\, Corneliusstraße 48 Kunstrapl.\, Corneliusstr. 48\, 71640 Ludwigsburg
 DTEND:20260704T180000Z
-LOCATION:Rasenplatz\, Metterstrasse\, Metterstr.\, 71665 Vaihingen an der Enz
+LOCATION:Kunstrasenplatz\, Corneliusstraße 48 Kunstrapl.\, Corneliusstr. 48\, 71640 Ludwigsburg
 DTSTART:20260704T160000Z
 SUMMARY:[B-Junioren | Kreisstaffel] SGM Sachsenheim - SpVgg Bissingen
 UID:match_id_350240001
@@ -346,9 +354,9 @@ SUMMARY:[Herren | Bezirksfreundschaftsspiele] SGM Riexingen - SGM Sachsenheim
 UID:match_id_550011182
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: spielfrei\nOrt: Rasenplatz\, Metterstrasse\, Metterstr.\, 71665 Vaihingen an der Enz
+DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: spielfrei\nOrt: Kunstrasenplatz\, Corneliusstraße 48 Kunstrapl.\, Corneliusstr. 48\, 71640 Ludwigsburg
 DTEND:20260621T000000Z
-LOCATION:Rasenplatz\, Metterstrasse\, Metterstr.\, 71665 Vaihingen an der Enz
+LOCATION:Kunstrasenplatz\, Corneliusstraße 48 Kunstrapl.\, Corneliusstr. 48\, 71640 Ludwigsburg
 DTSTART:20260620T220000Z
 SUMMARY:[B-Junioren | Kreisstaffel] SGM Sachsenheim - spielfrei
 UID:match_id_350574045
