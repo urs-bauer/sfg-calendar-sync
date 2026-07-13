@@ -18,6 +18,14 @@ SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim - VfR Sersheim
 UID:match_id_351402164
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: SGM Sachsenheim\nAuswärts: SGM Gemmrigheim/Walheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260829T163000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260829T143000Z
+SUMMARY:[Herren | Bezirksfreundschaftsspiele] SGM Sachsenheim - SGM Gemmrigheim/Walheim
+UID:match_id_550011327
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: C-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: FV Kirchheim I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20260516T150000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
@@ -96,14 +104,6 @@ LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20260912T090000Z
 SUMMARY:[B-Junioren | Bezirksfreundschaftsspiele] SGM   Sachsenheim - SGM VfB Vaihingen/Enz/TSV Enzweihingen/TSV Aurich II
 UID:match_id_550017035
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: SGM Sachsenheim II\nAuswärts: SGM Gemmrigheim/Walheim II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20260830T163000Z
-LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20260830T143000Z
-SUMMARY:[Herren | Bezirksfreundschaftsspiele] SGM Sachsenheim II - SGM Gemmrigheim/Walheim II
-UID:match_id_550011109
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim I\nAuswärts: TASV Hessigheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
