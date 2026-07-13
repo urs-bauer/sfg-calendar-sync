@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: MTV 1846 Ludwigsburg\nAuswärts: SGM Sachsenheim\nOrt: Kunstrasenplatz\, MTV Kunstrasenplatz 1\, Brünner Str. 11\, 71638 Ludwigsburg
+DTEND:20260906T130000Z
+LOCATION:Kunstrasenplatz\, MTV Kunstrasenplatz 1\, Brünner Str. 11\, 71638 Ludwigsburg
+DTSTART:20260906T110000Z
+SUMMARY:[Herren | Bezirksfreundschaftsspiele] MTV 1846 Ludwigsburg - SGM Sachsenheim
+UID:match_id_550011323
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SV Illingen II\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTEND:20261018T130000Z
 LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim

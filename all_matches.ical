@@ -18,6 +18,14 @@ SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim - VfR Sersheim
 UID:match_id_351402164
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: MTV 1846 Ludwigsburg\nAuswärts: SGM Sachsenheim\nOrt: Kunstrasenplatz\, MTV Kunstrasenplatz 1\, Brünner Str. 11\, 71638 Ludwigsburg
+DTEND:20260906T130000Z
+LOCATION:Kunstrasenplatz\, MTV Kunstrasenplatz 1\, Brünner Str. 11\, 71638 Ludwigsburg
+DTSTART:20260906T110000Z
+SUMMARY:[Herren | Bezirksfreundschaftsspiele] MTV 1846 Ludwigsburg - SGM Sachsenheim
+UID:match_id_550011323
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: TSV Ensingen II\nAuswärts: SGM Sachsenheim II\nOrt: Rasenplatz\, Gündelbacherstraße 59\, Gündelbacher Str. 59\, 71665 Vaihingen an der Enz
 DTEND:20260927T130000Z
 LOCATION:Rasenplatz\, Gündelbacherstraße 59\, Gündelbacher Str. 59\, 71665 Vaihingen an der Enz
