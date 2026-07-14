@@ -290,6 +290,14 @@ SUMMARY:[Herren | Bezirksfreundschaftsspiele] SGM FC Gündelbach/TSV Häfnerhasl
 UID:match_id_550011225
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Bezirkspokal\nHeim: FV Kirchheim\nAuswärts: SGM Sachsenheim\nOrt: Kunstrasenplatz\, Sportpark Fronberg\, Hohensteiner Str.\, 74366 Kirchheim am Neckar
+DTEND:20260902T190000Z
+LOCATION:Kunstrasenplatz\, Sportpark Fronberg\, Hohensteiner Str.\, 74366 Kirchheim am Neckar
+DTSTART:20260902T170000Z
+SUMMARY:[Herren | Bezirkspokal] FV Kirchheim - SGM Sachsenheim
+UID:match_id_950094059
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim\nAuswärts: VfB Vaihingen/Enz II Flex\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTEND:20260607T150000Z
 LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
