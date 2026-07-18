@@ -98,6 +98,14 @@ SUMMARY:[B-Junioren | Bezirksfreundschaftsspiele] SGM   Sachsenheim - TSV Münch
 UID:match_id_550017030
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM  Sachsenheim I\nAuswärts: Bäckerei Clement Cup\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260718T134500Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260718T114500Z
+SUMMARY:[D-Junioren | Bezirksfreundschaftsspiele] SGM  Sachsenheim I - Bäckerei Clement Cup
+UID:match_id_550073034
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM   Sachsenheim\nAuswärts: SGM VfB Vaihingen/Enz/TSV Enzweihingen/TSV Aurich II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20260912T110000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh

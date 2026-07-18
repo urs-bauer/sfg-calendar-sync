@@ -266,20 +266,20 @@ SUMMARY:[E-Junioren | Kreisstaffel] SGM TuS Freiberg/GSV Pleidelsheim I - Spfr. 
 UID:match_id_351072026
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM  Sachsenheim I\nAuswärts: Bäckerei Clement Cup\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260718T134500Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260718T114500Z
+SUMMARY:[D-Junioren | Bezirksfreundschaftsspiele] SGM  Sachsenheim I - Bäckerei Clement Cup
+UID:match_id_550073034
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Landesfreundschaftsspiele\nHeim: DJK Ludwigsburg I\nAuswärts: SGM   Sachsenheim\nOrt: Kunstrasenplatz\, Corneliusstraße 48 Kunstrapl.\, Corneliusstr. 48\, 71640 Ludwigsburg
 DTEND:20260725T110000Z
 LOCATION:Kunstrasenplatz\, Corneliusstraße 48 Kunstrapl.\, Corneliusstr. 48\, 71640 Ludwigsburg
 DTSTART:20260725T090000Z
 SUMMARY:[B-Junioren | Landesfreundschaftsspiele] DJK Ludwigsburg I - SGM   Sachsenheim
 UID:match_id_550023233
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: GSV Hemmingen\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
-DTEND:20260823T150000Z
-LOCATION:Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
-DTSTART:20260823T130000Z
-SUMMARY:[Herren | Bezirksfreundschaftsspiele] GSV Hemmingen - SGM Sachsenheim
-UID:match_id_550011033
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Bezirksfreundschaftsspiele\nHeim: TSV Bönnigheim\nAuswärts: SGM   Sachsenheim\nOrt: Kunstrasenplatz\, Bachstrasse 35  Kunstrasenpl.\, Bachstr.\, 74357 Bönnigheim
@@ -296,6 +296,14 @@ LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20260719T121500Z
 SUMMARY:[C-Junioren | Bezirksfreundschaftsspiele] SGM  Sachsenheim I - SGM Markgröningen/Riexingen II
 UID:match_id_550016039
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: GSV Hemmingen\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
+DTEND:20260823T150000Z
+LOCATION:Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
+DTSTART:20260823T130000Z
+SUMMARY:[Herren | Bezirksfreundschaftsspiele] GSV Hemmingen - SGM Sachsenheim
+UID:match_id_550011033
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM   Sachsenheim\nAuswärts: SGM VfB Vaihingen/Enz/TSV Enzweihingen/TSV Aurich II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
