@@ -338,6 +338,14 @@ SUMMARY:[Herren | Kreisliga A\; Kreisliga] NK Croatia Bietigheim - SGM Sachsenhe
 UID:match_id_355935052
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM TuS Freiberg/GSV Pleidelsheim I\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Blumenstrasse\, Blumenstr.\, 74385 Pleidelsheim
+DTEND:20260913T083000Z
+LOCATION:Kunstrasenplatz\, Blumenstrasse\, Blumenstr.\, 74385 Pleidelsheim
+DTSTART:20260913T063000Z
+SUMMARY:[D-Junioren | Bezirksfreundschaftsspiele] SGM TuS Freiberg/GSV Pleidelsheim I - SGM  Sachsenheim I
+UID:match_id_550073060
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: TSV Enzweihingen II\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der Enz
 DTEND:20260531T130000Z
 LOCATION:Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der Enz
