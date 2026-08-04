@@ -362,6 +362,14 @@ SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - spielfrei
 UID:match_id_351404171
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM SV Friolzheim/Heimsheim II\nAuswärts: SGM  Sachsenheim I\nOrt: Rasenplatz\, Sportpark Auf der Wanne\, Auf der Wanne\, 71296 Heimsheim
+DTEND:20260905T123000Z
+LOCATION:Rasenplatz\, Sportpark Auf der Wanne\, Auf der Wanne\, 71296 Heimsheim
+DTSTART:20260905T103000Z
+SUMMARY:[D-Junioren | Bezirksfreundschaftsspiele] SGM SV Friolzheim/Heimsheim II - SGM  Sachsenheim I
+UID:match_id_550073067
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SGM Gemmrigheim/Walheim II\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTEND:20260607T123000Z
 LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
