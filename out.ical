@@ -114,6 +114,14 @@ SUMMARY:[B-Junioren | Bezirksfreundschaftsspiele] SGM   Sachsenheim - SGM VfB Va
 UID:match_id_550017035
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: SGM Sachsenheim\nAuswärts: TSV Kleinglattbach\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260913T150000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260913T130000Z
+SUMMARY:[Herren | Bezirksfreundschaftsspiele] SGM Sachsenheim - TSV Kleinglattbach
+UID:match_id_550011480
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: C-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM  Sachsenheim I\nAuswärts: SGM TSV Oberriexingen / TSV Unterriexingen / FV Markgröningen II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20260719T141500Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
