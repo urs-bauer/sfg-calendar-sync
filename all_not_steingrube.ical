@@ -242,12 +242,12 @@ SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim II - SGM SC Hohenhaslach/SV
 UID:match_id_350970013
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: Herren | Kreisliga A\; Kreisliga\nHeim: TSV Ensingen\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Gündelbacherstraße 59\, Gündelbacher Str. 59\, 71665 Vaihingen an der Enz
-DTEND:20260927T150000Z
-LOCATION:Rasenplatz\, Gündelbacherstraße 59\, Gündelbacher Str. 59\, 71665 Vaihingen an der Enz
-DTSTART:20260927T130000Z
-SUMMARY:[Herren | Kreisliga A\; Kreisliga] TSV Ensingen - SGM Sachsenheim
-UID:match_id_355935011
+DESCRIPTION:Liga: C-Junioren | Bezirkspokal\nHeim: SGM VfB Neckarrems/SKV Hochberg/SGV Hochdorf II\nAuswärts: SGM  Sachsenheim\nOrt: Kunstrasenplatz\, GWV-Sportpark (Kunstrasen)\, Hummelberg 4\, 71686 Remseck am Neckar
+DTEND:20260916T183000Z
+LOCATION:Kunstrasenplatz\, GWV-Sportpark (Kunstrasen)\, Hummelberg 4\, 71686 Remseck am Neckar
+DTSTART:20260916T163000Z
+SUMMARY:[C-Junioren | Bezirkspokal] SGM VfB Neckarrems/SKV Hochberg/SGV Hochdorf II - SGM  Sachsenheim
+UID:match_id_950205005
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: SGM Asperg/Möglingen *\nOrt: Rasen II\, Löchgauer Str. 60\, 74343 Sachsenheim
@@ -256,6 +256,14 @@ LOCATION:Rasen II\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTSTART:20260503T083000Z
 SUMMARY:[B-Junioren | Kreisstaffel] SGM Sachsenheim - SGM Asperg/Möglingen *
 UID:match_id_350574015
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga A\; Kreisliga\nHeim: TSV Ensingen\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Gündelbacherstraße 59\, Gündelbacher Str. 59\, 71665 Vaihingen an der Enz
+DTEND:20260927T150000Z
+LOCATION:Rasenplatz\, Gündelbacherstraße 59\, Gündelbacher Str. 59\, 71665 Vaihingen an der Enz
+DTSTART:20260927T130000Z
+SUMMARY:[Herren | Kreisliga A\; Kreisliga] TSV Ensingen - SGM Sachsenheim
+UID:match_id_355935011
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SGM Riexingen\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim

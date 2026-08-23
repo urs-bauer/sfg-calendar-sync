@@ -570,6 +570,14 @@ SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim I - SV Freudental I
 UID:match_id_351072023
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: C-Junioren | Bezirkspokal\nHeim: SGM VfB Neckarrems/SKV Hochberg/SGV Hochdorf II\nAuswärts: SGM  Sachsenheim\nOrt: Kunstrasenplatz\, GWV-Sportpark (Kunstrasen)\, Hummelberg 4\, 71686 Remseck am Neckar
+DTEND:20260916T183000Z
+LOCATION:Kunstrasenplatz\, GWV-Sportpark (Kunstrasen)\, Hummelberg 4\, 71686 Remseck am Neckar
+DTSTART:20260916T163000Z
+SUMMARY:[C-Junioren | Bezirkspokal] SGM VfB Neckarrems/SKV Hochberg/SGV Hochdorf II - SGM  Sachsenheim
+UID:match_id_950205005
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: SGM FC Gündelbach/TSV Häfnerhaslach\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Metterstrasse\, Metterstr.\, 71665 Vaihingen an der Enz
 DTEND:20260808T150000Z
 LOCATION:Rasenplatz\, Metterstrasse\, Metterstr.\, 71665 Vaihingen an der Enz
