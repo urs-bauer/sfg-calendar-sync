@@ -362,12 +362,12 @@ SUMMARY:[C-Junioren | Kreisstaffel] SGM VfB Neckarrems/SKV Hochberg/SGV Hochdorf
 UID:match_id_352479013
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: TV Pflugfelden III\nAuswärts: SGM  Sachsenheim III\nOrt: Kunstrasenplatz\, Kleines Feldle Kunstrapl.\, Kleines Feldle\, 71636 Ludwigsburg
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: Spvgg Besigheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
 DTEND:20261024T110000Z
-LOCATION:Kunstrasenplatz\, Kleines Feldle Kunstrapl.\, Kleines Feldle\, 71636 Ludwigsburg
+LOCATION:Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
 DTSTART:20261024T090000Z
-SUMMARY:[D-Junioren | Kreisstaffel] TV Pflugfelden III - SGM  Sachsenheim III
-UID:match_id_350445016
+SUMMARY:[D-Junioren | Kreisstaffel] Spvgg Besigheim II - SGM  Sachsenheim II
+UID:match_id_350964014
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SGM TSV Enzweihingen/Vaihingen Süd II\nAuswärts: Spfr. Großsachsenheim II\nOrt: Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der Enz
@@ -376,6 +376,14 @@ LOCATION:Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der
 DTSTART:20260516T100000Z
 SUMMARY:[E-Junioren | Kreisstaffel] SGM TSV Enzweihingen/Vaihingen Süd II - Spfr. Großsachsenheim II
 UID:match_id_355102018
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: TV Pflugfelden III\nAuswärts: SGM  Sachsenheim III\nOrt: Kunstrasenplatz\, Kleines Feldle Kunstrapl.\, Kleines Feldle\, 71636 Ludwigsburg
+DTEND:20261024T110000Z
+LOCATION:Kunstrasenplatz\, Kleines Feldle Kunstrapl.\, Kleines Feldle\, 71636 Ludwigsburg
+DTSTART:20261024T090000Z
+SUMMARY:[D-Junioren | Kreisstaffel] TV Pflugfelden III - SGM  Sachsenheim III
+UID:match_id_350445016
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: SV Germania Bietigheim I\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Kleinspielfeld Ellental\, Im Ellental\, 74321 Bietigheim-Bissingen
@@ -394,14 +402,6 @@ SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim III - MTV 1846 Ludwigsburg 
 UID:match_id_350445028
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SGM Riexingen\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
-DTEND:20261114T133000Z
-LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
-DTSTART:20261114T113000Z
-SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SGM Riexingen
-UID:match_id_351402061
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: SGM FC Gündelbach/TSV Häfnerhaslach\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Metterstrasse\, Metterstr.\, 71665 Vaihingen an der Enz
 DTEND:20260808T150000Z
 LOCATION:Rasenplatz\, Metterstrasse\, Metterstr.\, 71665 Vaihingen an der Enz
@@ -416,6 +416,14 @@ LOCATION:Kunstrasenplatz\, Sportpark Fronberg\, Hohensteiner Str.\, 74366 Kirchh
 DTSTART:20260902T170000Z
 SUMMARY:[Herren | Bezirkspokal] FV Kirchheim - SGM Sachsenheim
 UID:match_id_950094059
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SGM Riexingen\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20261114T133000Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20261114T113000Z
+SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SGM Riexingen
+UID:match_id_351402061
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga A\; Kreisliga\nHeim: SGM Sachsenheim\nAuswärts: SpVgg Bissingen\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
@@ -474,12 +482,12 @@ SUMMARY:[Herren | Kreisliga A\; Kreisliga] SGM Sachsenheim - SV Germania Bietigh
 UID:match_id_355935005
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: FSV 08 Bietigheim-Bissingen II\nAuswärts: SGM  Sachsenheim I\nOrt: Rasenplatz\, Waldstrasse\, Waldstr.\, 74321 Bietigheim-Bissingen
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM Mundelsheim/Hessigheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Rasenplatz\, Sportplatz Wertweg\, Wertweg 31\, 74395 Mundelsheim
 DTEND:20261010T133000Z
-LOCATION:Rasenplatz\, Waldstrasse\, Waldstr.\, 74321 Bietigheim-Bissingen
+LOCATION:Rasenplatz\, Sportplatz Wertweg\, Wertweg 31\, 74395 Mundelsheim
 DTSTART:20261010T113000Z
-SUMMARY:[D-Junioren | Kreisleistungsstaffel] FSV 08 Bietigheim-Bissingen II - SGM  Sachsenheim I
-UID:match_id_350793008
+SUMMARY:[D-Junioren | Kreisstaffel] SGM Mundelsheim/Hessigheim II - SGM  Sachsenheim II
+UID:match_id_350964007
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spvgg Besigheim II\nAuswärts: Spfr. Großsachsenheim II\nOrt: Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
@@ -496,6 +504,14 @@ LOCATION:Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen
 DTSTART:20261003T100000Z
 SUMMARY:[E-Junioren | Kreisstaffel] SG Roßwag/Mühlhausen I - Spfr. Großsachsenheim I
 UID:match_id_355101008
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: FSV 08 Bietigheim-Bissingen II\nAuswärts: SGM  Sachsenheim I\nOrt: Rasenplatz\, Waldstrasse\, Waldstr.\, 74321 Bietigheim-Bissingen
+DTEND:20261010T133000Z
+LOCATION:Rasenplatz\, Waldstrasse\, Waldstr.\, 74321 Bietigheim-Bissingen
+DTSTART:20261010T113000Z
+SUMMARY:[D-Junioren | Kreisleistungsstaffel] FSV 08 Bietigheim-Bissingen II - SGM  Sachsenheim I
+UID:match_id_350793008
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim I\nAuswärts: spielfrei\nOrt: Rasenplatz\, Im Hardwäldle\, Rasen I\, Im Hardwäldle\, 71735 Eberdingen-Nußdorf
@@ -568,6 +584,14 @@ LOCATION:Kunstrasenplatz\, MTV Kunstrasenplatz 3\, Fuchshofstr. 60\, 71638 Ludwi
 DTSTART:20261107T140000Z
 SUMMARY:[C-Junioren | Kreisstaffel] MTV 1846 Ludwigsburg III - SGM  Sachsenheim
 UID:match_id_352479023
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SpVgg Bissingen II\nAuswärts: SGM  Sachsenheim II\nOrt: Kunstrasenplatz\, Kompaktspielfeld SpVgg Bissingen\, Westendstr. 35\, 74321 Bietigheim-Bissingen
+DTEND:20261114T120000Z
+LOCATION:Kunstrasenplatz\, Kompaktspielfeld SpVgg Bissingen\, Westendstr. 35\, 74321 Bietigheim-Bissingen
+DTSTART:20261114T100000Z
+SUMMARY:[D-Junioren | Kreisstaffel] SpVgg Bissingen II - SGM  Sachsenheim II
+UID:match_id_350964028
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SGM Gemmrigheim/Walheim II\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
