@@ -18,6 +18,14 @@ SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim II - VfR Sersheim II
 UID:match_id_354983023
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM Mundelsheim/Hessigheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Rasenplatz\, Sportplatz Wertweg\, Wertweg 31\, 74395 Mundelsheim
+DTEND:20261010T133000Z
+LOCATION:Rasenplatz\, Sportplatz Wertweg\, Wertweg 31\, 74395 Mundelsheim
+DTSTART:20261010T113000Z
+SUMMARY:[D-Junioren | Kreisstaffel] SGM Mundelsheim/Hessigheim II - SGM  Sachsenheim II
+UID:match_id_350964007
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SV Illingen II\nAuswärts: Spfr. Großsachsenheim II\nOrt: Rasenplatz\, Goethestraße 47\, Rasen II\, Goethestr. 47\, 75428 Illingen
 DTEND:20261114T120000Z
 LOCATION:Rasenplatz\, Goethestraße 47\, Rasen II\, Goethestr. 47\, 75428 Illingen
@@ -158,6 +166,14 @@ DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SGM
 DTEND:20261101T133000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20261101T113000Z
+SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SGM FC Gündelbach/TSV Häfnerhaslach
+UID:match_id_351402047
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SGM FC Gündelbach/TSV Häfnerhaslach\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20261105T203000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20261105T183000Z
 SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SGM FC Gündelbach/TSV Häfnerhaslach
 UID:match_id_351402047
 END:VEVENT
@@ -746,18 +762,10 @@ SUMMARY:[D-Junioren | Kreisstaffel] TSV Merklingen III - SGM  Sachsenheim III
 UID:match_id_350445006
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM Mundelsheim/Hessigheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Rasenplatz\, Sportplatz Wertweg\, Wertweg 31\, 74395 Mundelsheim
-DTEND:20261010T133000Z
-LOCATION:Rasenplatz\, Sportplatz Wertweg\, Wertweg 31\, 74395 Mundelsheim
-DTSTART:20261010T113000Z
-SUMMARY:[D-Junioren | Kreisstaffel] SGM Mundelsheim/Hessigheim II - SGM  Sachsenheim II
-UID:match_id_350964007
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: FSV 08 Bietigheim-Bissingen II\nAuswärts: SGM  Sachsenheim I\nOrt: Rasenplatz\, Waldstrasse\, Waldstr.\, 74321 Bietigheim-Bissingen
-DTEND:20261010T133000Z
-LOCATION:Rasenplatz\, Waldstrasse\, Waldstr.\, 74321 Bietigheim-Bissingen
-DTSTART:20261010T113000Z
+DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: FSV 08 Bietigheim-Bissingen II\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Bietigheim-Metterz. Kunstrapl.\, Im Bodenrain 2\, 74321 Bietigheim-Bissingen
+DTEND:20261010T113000Z
+LOCATION:Kunstrasenplatz\, Bietigheim-Metterz. Kunstrapl.\, Im Bodenrain 2\, 74321 Bietigheim-Bissingen
+DTSTART:20261010T093000Z
 SUMMARY:[D-Junioren | Kreisleistungsstaffel] FSV 08 Bietigheim-Bissingen II - SGM  Sachsenheim I
 UID:match_id_350793008
 END:VEVENT

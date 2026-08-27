@@ -482,12 +482,12 @@ SUMMARY:[Herren | Kreisliga A\; Kreisliga] SGM Sachsenheim - SV Germania Bietigh
 UID:match_id_355935005
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM Mundelsheim/Hessigheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Rasenplatz\, Sportplatz Wertweg\, Wertweg 31\, 74395 Mundelsheim
-DTEND:20261010T133000Z
-LOCATION:Rasenplatz\, Sportplatz Wertweg\, Wertweg 31\, 74395 Mundelsheim
-DTSTART:20261010T113000Z
-SUMMARY:[D-Junioren | Kreisstaffel] SGM Mundelsheim/Hessigheim II - SGM  Sachsenheim II
-UID:match_id_350964007
+DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: FSV 08 Bietigheim-Bissingen II\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Bietigheim-Metterz. Kunstrapl.\, Im Bodenrain 2\, 74321 Bietigheim-Bissingen
+DTEND:20261010T113000Z
+LOCATION:Kunstrasenplatz\, Bietigheim-Metterz. Kunstrapl.\, Im Bodenrain 2\, 74321 Bietigheim-Bissingen
+DTSTART:20261010T093000Z
+SUMMARY:[D-Junioren | Kreisleistungsstaffel] FSV 08 Bietigheim-Bissingen II - SGM  Sachsenheim I
+UID:match_id_350793008
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spvgg Besigheim II\nAuswärts: Spfr. Großsachsenheim II\nOrt: Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
@@ -506,12 +506,12 @@ SUMMARY:[E-Junioren | Kreisstaffel] SG Roßwag/Mühlhausen I - Spfr. Großsachse
 UID:match_id_355101008
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: FSV 08 Bietigheim-Bissingen II\nAuswärts: SGM  Sachsenheim I\nOrt: Rasenplatz\, Waldstrasse\, Waldstr.\, 74321 Bietigheim-Bissingen
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM Mundelsheim/Hessigheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Rasenplatz\, Sportplatz Wertweg\, Wertweg 31\, 74395 Mundelsheim
 DTEND:20261010T133000Z
-LOCATION:Rasenplatz\, Waldstrasse\, Waldstr.\, 74321 Bietigheim-Bissingen
+LOCATION:Rasenplatz\, Sportplatz Wertweg\, Wertweg 31\, 74395 Mundelsheim
 DTSTART:20261010T113000Z
-SUMMARY:[D-Junioren | Kreisleistungsstaffel] FSV 08 Bietigheim-Bissingen II - SGM  Sachsenheim I
-UID:match_id_350793008
+SUMMARY:[D-Junioren | Kreisstaffel] SGM Mundelsheim/Hessigheim II - SGM  Sachsenheim II
+UID:match_id_350964007
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim I\nAuswärts: spielfrei\nOrt: Rasenplatz\, Im Hardwäldle\, Rasen I\, Im Hardwäldle\, 71735 Eberdingen-Nußdorf

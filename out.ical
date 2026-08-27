@@ -50,6 +50,14 @@ SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SV Iptingen II
 UID:match_id_351404153
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SGM FC Gündelbach/TSV Häfnerhaslach\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20261105T203000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20261105T183000Z
+SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SGM FC Gündelbach/TSV Häfnerhaslach
+UID:match_id_351402047
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim II\nAuswärts: SKV Erligheim II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20261107T130000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
