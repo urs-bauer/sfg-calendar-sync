@@ -42,6 +42,14 @@ SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim II - SV Germania Bietigheim
 UID:match_id_350964009
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksfreundschaftsspiele\nHeim: Spvgg Besigheim I\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
+DTEND:20260912T100000Z
+LOCATION:Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
+DTSTART:20260912T080000Z
+SUMMARY:[D-Junioren | Bezirksfreundschaftsspiele] Spvgg Besigheim I - SGM  Sachsenheim I
+UID:match_id_550073087
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SGM Riexingen\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTEND:20261114T133000Z
 LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
