@@ -42,6 +42,22 @@ SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim II - SV Germania Bietigheim
 UID:match_id_350964009
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: Spvgg Besigheim I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20261031T143000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20261031T123000Z
+SUMMARY:[D-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - Spvgg Besigheim I
+UID:match_id_350793025
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: FV Löchgau II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20261114T143000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20261114T123000Z
+SUMMARY:[D-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - FV Löchgau II
+UID:match_id_350793035
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Bezirksfreundschaftsspiele\nHeim: Spvgg Besigheim I\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
 DTEND:20260912T100000Z
 LOCATION:Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
@@ -218,12 +234,12 @@ SUMMARY:[D-Junioren | Kreisleistungsstaffel] SGM Riexingen I - SGM  Sachsenheim 
 UID:match_id_350793029
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SV Illingen II\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
-DTEND:20261018T130000Z
-LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
-DTSTART:20261018T110000Z
-SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SV Illingen II
-UID:match_id_351402033
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: FV Ingersheim II\nAuswärts: SGM  Sachsenheim III\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T104800Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T084800Z
+SUMMARY:[D-Junioren | Bezirksturnier] FV Ingersheim II - SGM  Sachsenheim III
+UID:match_id_560654010
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: SGM Nussdorf/JSG Kreuzbach\nOrt: Rasen II\, Löchgauer Str. 60\, 74343 Sachsenheim
@@ -258,6 +274,46 @@ SUMMARY:[C-Junioren | Kreisleistungsstaffel] SGM Steinheim/Erdmannhausen I - SGM
 UID:match_id_352036037
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: FSV 08 Bietigheim-Bissingen I\nAuswärts: SGM  Sachsenheim III\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T112400Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T092400Z
+SUMMARY:[D-Junioren | Bezirksturnier] FSV 08 Bietigheim-Bissingen I - SGM  Sachsenheim III
+UID:match_id_560654013
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: GSV Erdmannhausen I\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T140300Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T120300Z
+SUMMARY:[D-Junioren | Bezirksturnier] GSV Erdmannhausen I - SGM  Sachsenheim I
+UID:match_id_560657010
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM VfB Neckarrems/SKV Hochberg/SGV Hochdorf II\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T143900Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T123900Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGM VfB Neckarrems/SKV Hochberg/SGV Hochdorf II - SGM  Sachsenheim I
+UID:match_id_560657013
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: GSV Erdmannhausen II\nAuswärts: SGM  Sachsenheim II\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T175600Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T155600Z
+SUMMARY:[D-Junioren | Bezirksturnier] GSV Erdmannhausen II - SGM  Sachsenheim II
+UID:match_id_560658014
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM  Sachsenheim II\nAuswärts: VfR Großbottwar I\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T170800Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T150800Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGM  Sachsenheim II - VfR Großbottwar I
+UID:match_id_560658010
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga A\; Kreisliga\nHeim: SGM Sachsenheim\nAuswärts: SV Illingen\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTEND:20261018T150000Z
 LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
@@ -282,36 +338,12 @@ SUMMARY:[Herren | Kreisliga A\; Kreisliga] SGM Vaihingen/Enzweihingen - SGM Sach
 UID:match_id_355935036
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: Spvgg Besigheim I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20261031T143000Z
-LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20261031T123000Z
-SUMMARY:[D-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - Spvgg Besigheim I
-UID:match_id_350793025
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: FV Löchgau II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20261114T143000Z
-LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20261114T123000Z
-SUMMARY:[D-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - FV Löchgau II
-UID:match_id_350793035
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim III\nAuswärts: SV Sal. Kornwestheim III\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTEND:20261031T130000Z
 LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTSTART:20261031T110000Z
 SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim III - SV Sal. Kornwestheim III
 UID:match_id_350445020
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liga: B-Junioren | Kreisleistungsstaffel\nHeim: SpVgg Renningen I\nAuswärts: SGM   Sachsenheim\nOrt: Kunstrasenplatz\, Sportpark Stegwiesen\, Sportpark Stegwiesen\, 71272 Renningen
-DTEND:20261114T173000Z
-LOCATION:Kunstrasenplatz\, Sportpark Stegwiesen\, Sportpark Stegwiesen\, 71272 Renningen
-DTSTART:20261114T153000Z
-SUMMARY:[B-Junioren | Kreisleistungsstaffel] SpVgg Renningen I - SGM   Sachsenheim
-UID:match_id_356195034
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SV Iptingen II\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
@@ -386,12 +418,36 @@ SUMMARY:[E-Junioren | Kreisstaffel] SpVgg Bissingen I - Spfr. Großsachsenheim I
 UID:match_id_351072020
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM  Sachsenheim I\nAuswärts: TSV Bönnigheim I\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T121500Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T101500Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGM  Sachsenheim I - TSV Bönnigheim I
+UID:match_id_560657001
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM  Sachsenheim III\nAuswärts: GSV Höpfigheim I\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T090000Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T070000Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGM  Sachsenheim III - GSV Höpfigheim I
+UID:match_id_560654001
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: TSV Ph. Lomersheim I\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Am Wässerle Kunstr.\, Am Wässerle\, 75417 Mühlacker
 DTEND:20260509T133000Z
 LOCATION:Kunstrasenplatz\, Am Wässerle Kunstr.\, Am Wässerle\, 75417 Mühlacker
 DTSTART:20260509T113000Z
 SUMMARY:[D-Junioren | Kreisstaffel] TSV Ph. Lomersheim I - SGM  Sachsenheim I
 UID:match_id_352049024
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SpVgg Bissingen I\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T125100Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T105100Z
+SUMMARY:[D-Junioren | Bezirksturnier] SpVgg Bissingen I - SGM  Sachsenheim I
+UID:match_id_560657004
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: C-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim II\nAuswärts: MTV 1846 Ludwigsburg II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
@@ -408,6 +464,14 @@ LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20260516T083000Z
 SUMMARY:[C-Junioren | Kreisstaffel] SGM  Sachsenheim II - SV Sal. Kornwestheim II
 UID:match_id_351573025
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM  Sachsenheim III\nAuswärts: SV Germania Bietigheim I\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T101200Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T081200Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGM  Sachsenheim III - SV Germania Bietigheim I
+UID:match_id_560654007
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim II\nAuswärts: TSV Ph. Lomersheim II\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
@@ -458,36 +522,12 @@ SUMMARY:[D-Junioren | Kreisstaffel] TSF Ditzingen III - SGM  Sachsenheim III
 UID:match_id_351625028
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim II\nAuswärts: TSV Kleinsachsenheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20260620T103000Z
-LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20260620T083000Z
-SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim II - TSV Kleinsachsenheim
-UID:match_id_355102025
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SGM TuS Freiberg/GSV Pleidelsheim I\nAuswärts: Spfr. Großsachsenheim I\nOrt: Rasenplatz\, Lugaufsportplatz\, Gartenstr.\, Gartenstr.\, 71691 Freiberg am Neckar
-DTEND:20260620T110000Z
-LOCATION:Rasenplatz\, Lugaufsportplatz\, Gartenstr.\, Gartenstr.\, 71691 Freiberg am Neckar
-DTSTART:20260620T090000Z
-SUMMARY:[E-Junioren | Kreisstaffel] SGM TuS Freiberg/GSV Pleidelsheim I - Spfr. Großsachsenheim I
-UID:match_id_351072026
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM  Sachsenheim I\nAuswärts: Bäckerei Clement Cup\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20260718T134500Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20260718T114500Z
 SUMMARY:[D-Junioren | Bezirksfreundschaftsspiele] SGM  Sachsenheim I - Bäckerei Clement Cup
 UID:match_id_550073034
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: GSV Hemmingen\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
-DTEND:20260823T150000Z
-LOCATION:Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
-DTSTART:20260823T130000Z
-SUMMARY:[Herren | Bezirksfreundschaftsspiele] GSV Hemmingen - SGM Sachsenheim
-UID:match_id_550011033
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Bezirksfreundschaftsspiele\nHeim: TSV Bönnigheim\nAuswärts: SGM   Sachsenheim\nOrt: Kunstrasenplatz\, Bachstrasse 35  Kunstrasenpl.\, Bachstr.\, 74357 Bönnigheim
@@ -506,20 +546,20 @@ SUMMARY:[C-Junioren | Bezirksfreundschaftsspiele] SGM  Sachsenheim - SGM TSV Obe
 UID:match_id_550016039
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: GSV Hemmingen\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
+DTEND:20260823T150000Z
+LOCATION:Rasenplatz\, Eberdingerstraße 36\, Eberdinger Str. 36\, 71282 Hemmingen
+DTSTART:20260823T130000Z
+SUMMARY:[Herren | Bezirksfreundschaftsspiele] GSV Hemmingen - SGM Sachsenheim
+UID:match_id_550011033
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM   Sachsenheim\nAuswärts: SGM VfB Vaihingen/Enz/TSV Enzweihingen/TSV Aurich II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20260912T110000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20260912T090000Z
 SUMMARY:[B-Junioren | Bezirksfreundschaftsspiele] SGM   Sachsenheim - SGM VfB Vaihingen/Enz/TSV Enzweihingen/TSV Aurich II
 UID:match_id_550017035
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: TV Aldingen 1898 e.V. III\nAuswärts: SGM  Sachsenheim III\nOrt: Kunstrasenplatz\, Kunstrasen TV Aldingen\, Neckarkanalstr. 41\, 71686 Remseck am Neckar
-DTEND:20261107T110000Z
-LOCATION:Kunstrasenplatz\, Kunstrasen TV Aldingen\, Neckarkanalstr. 41\, 71686 Remseck am Neckar
-DTSTART:20261107T090000Z
-SUMMARY:[D-Junioren | Kreisstaffel] TV Aldingen 1898 e.V. III - SGM  Sachsenheim III
-UID:match_id_350445022
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: TSV Ensingen II\nAuswärts: SGM Sachsenheim II\nOrt: Rasenplatz\, Gündelbacherstraße 59\, Gündelbacher Str. 59\, 71665 Vaihingen an der Enz
@@ -530,20 +570,20 @@ SUMMARY:[Herren | Kreisliga B] TSV Ensingen II - SGM Sachsenheim II
 UID:match_id_351402011
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: B-Junioren | Kreisleistungsstaffel\nHeim: SGM Hirschl.-Schöck./Heimerd.\nAuswärts: SGM   Sachsenheim\nOrt: Rasenplatz\, Rasen Weissacherstrasse\, Weissacher Str.\, 71254 Ditzingen
-DTEND:20261004T103000Z
-LOCATION:Rasenplatz\, Rasen Weissacherstrasse\, Weissacher Str.\, 71254 Ditzingen
-DTSTART:20261004T083000Z
-SUMMARY:[B-Junioren | Kreisleistungsstaffel] SGM Hirschl.-Schöck./Heimerd. - SGM   Sachsenheim
-UID:match_id_356195010
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim II\nAuswärts: SGM SC Hohenhaslach/SV Freudental\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTEND:20260505T174500Z
 LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTSTART:20260505T154500Z
 SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim II - SGM SC Hohenhaslach/SV Freudental
 UID:match_id_350970013
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga A\; Kreisliga\nHeim: TSV Ensingen\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Gündelbacherstraße 59\, Gündelbacher Str. 59\, 71665 Vaihingen an der Enz
+DTEND:20260927T150000Z
+LOCATION:Rasenplatz\, Gündelbacherstraße 59\, Gündelbacher Str. 59\, 71665 Vaihingen an der Enz
+DTSTART:20260927T130000Z
+SUMMARY:[Herren | Kreisliga A\; Kreisliga] TSV Ensingen - SGM Sachsenheim
+UID:match_id_355935011
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: SGM Asperg/Möglingen *\nOrt: Rasen II\, Löchgauer Str. 60\, 74343 Sachsenheim
@@ -586,12 +626,12 @@ SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim I - TASV Hessigheim
 UID:match_id_351072015
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: Herren | Kreisliga A\; Kreisliga\nHeim: TSV Ensingen\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Gündelbacherstraße 59\, Gündelbacher Str. 59\, 71665 Vaihingen an der Enz
-DTEND:20260927T150000Z
-LOCATION:Rasenplatz\, Gündelbacherstraße 59\, Gündelbacher Str. 59\, 71665 Vaihingen an der Enz
-DTSTART:20260927T130000Z
-SUMMARY:[Herren | Kreisliga A\; Kreisliga] TSV Ensingen - SGM Sachsenheim
-UID:match_id_355935011
+DESCRIPTION:Liga: B-Junioren | Kreisleistungsstaffel\nHeim: SGM Hirschl.-Schöck./Heimerd.\nAuswärts: SGM   Sachsenheim\nOrt: Rasenplatz\, Rasen Weissacherstrasse\, Weissacher Str.\, 71254 Ditzingen
+DTEND:20261004T103000Z
+LOCATION:Rasenplatz\, Rasen Weissacherstrasse\, Weissacher Str.\, 71254 Ditzingen
+DTSTART:20261004T083000Z
+SUMMARY:[B-Junioren | Kreisleistungsstaffel] SGM Hirschl.-Schöck./Heimerd. - SGM   Sachsenheim
+UID:match_id_356195010
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SGM TSV Enzweihingen/Vaihingen Süd II\nAuswärts: Spfr. Großsachsenheim II\nOrt: Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der Enz
@@ -794,6 +834,14 @@ SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim II - spielfrei
 UID:match_id_354983009
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: B-Junioren | Kreisleistungsstaffel\nHeim: SpVgg Renningen I\nAuswärts: SGM   Sachsenheim\nOrt: Kunstrasenplatz\, Sportpark Stegwiesen\, Sportpark Stegwiesen\, 71272 Renningen
+DTEND:20261114T173000Z
+LOCATION:Kunstrasenplatz\, Sportpark Stegwiesen\, Sportpark Stegwiesen\, 71272 Renningen
+DTSTART:20261114T153000Z
+SUMMARY:[B-Junioren | Kreisleistungsstaffel] SpVgg Renningen I - SGM   Sachsenheim
+UID:match_id_356195034
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: TSV Kleinglattbach\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20261017T133000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
@@ -890,6 +938,14 @@ SUMMARY:[Herren | Bezirksfreundschaftsspiele] SGM FC Gündelbach/TSV Häfnerhasl
 UID:match_id_550011225
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SGM TuS Freiberg/GSV Pleidelsheim I\nAuswärts: Spfr. Großsachsenheim I\nOrt: Rasenplatz\, Lugaufsportplatz\, Gartenstr.\, Gartenstr.\, 71691 Freiberg am Neckar
+DTEND:20260620T110000Z
+LOCATION:Rasenplatz\, Lugaufsportplatz\, Gartenstr.\, Gartenstr.\, 71691 Freiberg am Neckar
+DTSTART:20260620T090000Z
+SUMMARY:[E-Junioren | Kreisstaffel] SGM TuS Freiberg/GSV Pleidelsheim I - Spfr. Großsachsenheim I
+UID:match_id_351072026
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim II\nAuswärts: SKV Erligheim II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20261107T130000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
@@ -904,6 +960,22 @@ LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20261108T093000Z
 SUMMARY:[B-Junioren | Kreisleistungsstaffel] SGM   Sachsenheim - SGM TSV Unterriexingen / FV Markgröningen / TSV Oberriexingen II
 UID:match_id_356195029
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SV Illingen II\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20261018T130000Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20261018T110000Z
+SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SV Illingen II
+UID:match_id_351402033
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: TV Aldingen 1898 e.V. III\nAuswärts: SGM  Sachsenheim III\nOrt: Kunstrasenplatz\, Kunstrasen TV Aldingen\, Neckarkanalstr. 41\, 71686 Remseck am Neckar
+DTEND:20261107T110000Z
+LOCATION:Kunstrasenplatz\, Kunstrasen TV Aldingen\, Neckarkanalstr. 41\, 71686 Remseck am Neckar
+DTSTART:20261107T090000Z
+SUMMARY:[D-Junioren | Kreisstaffel] TV Aldingen 1898 e.V. III - SGM  Sachsenheim III
+UID:match_id_350445022
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SV Horrheim I\nAuswärts: Spfr. Großsachsenheim I\nOrt: Rasenplatz\, Neue Schulstraße\, Rasen I\, Neue Schulstr.\, 71665 Vaihingen an der Enz
@@ -978,6 +1050,14 @@ SUMMARY:[Herren | Bezirksfreundschaftsspiele] SGM Sachsenheim - SGM Gemmrigheim/
 UID:match_id_550011327
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM  Sachsenheim I\nAuswärts: SGV Heilbronn-Freiberg Fußball III\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T132700Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T112700Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGM  Sachsenheim I - SGV Heilbronn-Freiberg Fußball III
+UID:match_id_560657007
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: Spvgg Besigheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
 DTEND:20261024T110000Z
 LOCATION:Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
@@ -1002,6 +1082,14 @@ SUMMARY:[E-Junioren | Kreisstaffel] SGM Roßwag/Mühlhausen I - Spfr. Großsachs
 UID:match_id_355102021
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGV Murr II\nAuswärts: SGM  Sachsenheim III\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T093600Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T073600Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGV Murr II - SGM  Sachsenheim III
+UID:match_id_560654004
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim II\nAuswärts: SGM KSV Hoheneck/TV Neckarweihingen II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20261031T130000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
@@ -1018,6 +1106,14 @@ SUMMARY:[C-Junioren | Kreisstaffel] SGM VfB Neckarrems/SKV Hochberg/SGV Hochdorf
 UID:match_id_352479013
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim II\nAuswärts: TSV Kleinsachsenheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260620T103000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260620T083000Z
+SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim II - TSV Kleinsachsenheim
+UID:match_id_355102025
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM TSV Nussdorf/FV Roßwag II\nAuswärts: SGM Sachsenheim II\nOrt: Rasenplatz\, Im Hardwäldle\, Rasen I\, Im Hardwäldle\, 71735 Eberdingen-Nußdorf
 DTEND:20261011T130000Z
 LOCATION:Rasenplatz\, Im Hardwäldle\, Rasen I\, Im Hardwäldle\, 71735 Eberdingen-Nußdorf
@@ -1026,11 +1122,35 @@ SUMMARY:[Herren | Kreisliga B] SGM TSV Nussdorf/FV Roßwag II - SGM Sachsenheim 
 UID:match_id_351402027
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM  Sachsenheim II\nAuswärts: FV Ingersheim I\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T154400Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T134400Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGM  Sachsenheim II - FV Ingersheim I
+UID:match_id_560658003
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM   Sachsenheim\nAuswärts: TSV Münchingen II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20260919T110000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20260919T090000Z
 SUMMARY:[B-Junioren | Bezirksfreundschaftsspiele] SGM   Sachsenheim - TSV Münchingen II
 UID:match_id_550017030
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGV Murr I\nAuswärts: SGM  Sachsenheim II\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T162000Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T142000Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGV Murr I - SGM  Sachsenheim II
+UID:match_id_560658006
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM  Sachsenheim II\nAuswärts: SpVgg Bissingen II\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTEND:20260919T164400Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
+DTSTART:20260919T144400Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGM  Sachsenheim II - SpVgg Bissingen II
+UID:match_id_560658008
 END:VEVENT
 END:VCALENDAR
