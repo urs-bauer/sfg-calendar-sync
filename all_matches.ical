@@ -34,6 +34,14 @@ SUMMARY:[E-Junioren | Kreisstaffel] SV Illingen II - Spfr. Großsachsenheim II
 UID:match_id_354983026
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM TuS Freiberg/GSV Pleidelsheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Rasenplatz\, Lugaufsportplatz\, Gartenstr.\, Gartenstr.\, 71691 Freiberg am Neckar
+DTEND:20260924T173000Z
+LOCATION:Rasenplatz\, Lugaufsportplatz\, Gartenstr.\, Gartenstr.\, 71691 Freiberg am Neckar
+DTSTART:20260924T153000Z
+SUMMARY:[D-Junioren | Bezirksfreundschaftsspiele] SGM TuS Freiberg/GSV Pleidelsheim II - SGM  Sachsenheim II
+UID:match_id_550073098
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim II\nAuswärts: SV Germania Bietigheim II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20261017T120000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
