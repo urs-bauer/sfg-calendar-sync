@@ -98,9 +98,9 @@ SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - spielfrei
 UID:match_id_351404171
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM SV Friolzheim/Heimsheim II\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, MTV Kunstrasenplatz 1\, Brünner Str. 11\, 71638 Ludwigsburg
+DESCRIPTION:Liga: D-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM SV Friolzheim/Heimsheim II\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
 DTEND:20260905T123000Z
-LOCATION:Kunstrasenplatz\, MTV Kunstrasenplatz 1\, Brünner Str. 11\, 71638 Ludwigsburg
+LOCATION:Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
 DTSTART:20260905T103000Z
 SUMMARY:[D-Junioren | Bezirksfreundschaftsspiele] SGM SV Friolzheim/Heimsheim II - SGM  Sachsenheim I
 UID:match_id_550073067
@@ -712,14 +712,6 @@ LOCATION:Rasenplatz\, Im Zwergberg\, Zwergberg\, 75446 Wiernsheim
 DTSTART:20261114T110000Z
 SUMMARY:[E-Junioren | Kreisstaffel] SGM Iptingen/JSG Kreuzbach I - Spfr. Großsachsenheim I
 UID:match_id_355101026
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: MTV 1846 Ludwigsburg\nAuswärts: SGM Sachsenheim\nOrt: Kunstrasenplatz\, MTV Kunstrasenplatz 1\, Brünner Str. 11\, 71638 Ludwigsburg
-DTEND:20260906T130000Z
-LOCATION:Kunstrasenplatz\, MTV Kunstrasenplatz 1\, Brünner Str. 11\, 71638 Ludwigsburg
-DTSTART:20260906T110000Z
-SUMMARY:[Herren | Bezirksfreundschaftsspiele] MTV 1846 Ludwigsburg - SGM Sachsenheim
-UID:match_id_550011323
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM TSV Nussdorf/FV Roßwag II\nAuswärts: SGM Sachsenheim II\nOrt: Rasenplatz\, Im Hardwäldle\, Rasen I\, Im Hardwäldle\, 71735 Eberdingen-Nußdorf
