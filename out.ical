@@ -298,6 +298,14 @@ SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim II - SGM KSV Hoheneck/TV Ne
 UID:match_id_350964017
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Bezirksfreundschaftsspiele\nHeim: Spfr. Großsachsenheim I\nAuswärts: SC Hohenhaslach\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260918T170000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260918T150000Z
+SUMMARY:[E-Junioren | Bezirksfreundschaftsspiele] Spfr. Großsachsenheim I - SC Hohenhaslach
+UID:match_id_550070028
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Kreisstaffel\nHeim: SGM Sachsenheim\nAuswärts: SpVgg Bissingen\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20260704T180000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh

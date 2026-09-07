@@ -706,6 +706,14 @@ SUMMARY:[B-Junioren | Kreisleistungsstaffel] SGM   Sachsenheim - TSV Münchingen
 UID:match_id_356195019
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Bezirksfreundschaftsspiele\nHeim: Spfr. Großsachsenheim I\nAuswärts: SC Hohenhaslach\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260918T170000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260918T150000Z
+SUMMARY:[E-Junioren | Bezirksfreundschaftsspiele] Spfr. Großsachsenheim I - SC Hohenhaslach
+UID:match_id_550070028
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: C-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim\nAuswärts: SV Sal. Kornwestheim II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20261024T150000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
