@@ -66,6 +66,14 @@ SUMMARY:[D-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - FV Löchgau II
 UID:match_id_350793035
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: SGM Sachsenheim\nAuswärts: TSV Großglattbach\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20260915T190000Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20260915T170000Z
+SUMMARY:[Herren | Bezirksfreundschaftsspiele] SGM Sachsenheim - TSV Großglattbach
+UID:match_id_550011505
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Bezirksfreundschaftsspiele\nHeim: Spvgg Besigheim I\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
 DTEND:20260912T100000Z
 LOCATION:Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
