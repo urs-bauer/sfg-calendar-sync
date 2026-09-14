@@ -66,9 +66,9 @@ SUMMARY:[D-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - FV Löchgau II
 UID:match_id_350793035
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: SGM Sachsenheim\nAuswärts: TSV Großglattbach\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: SGM Sachsenheim\nAuswärts: TSV Großglattbach\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20260915T190000Z
-LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20260915T170000Z
 SUMMARY:[Herren | Bezirksfreundschaftsspiele] SGM Sachsenheim - TSV Großglattbach
 UID:match_id_550011505
@@ -802,6 +802,14 @@ SUMMARY:[B-Junioren | Kreisleistungsstaffel] SGM   Sachsenheim - SV Sal. Kornwes
 UID:match_id_356195004
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: C-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim\nAuswärts: DJK Ludwigsburg\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20261003T110000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20261003T090000Z
+SUMMARY:[C-Junioren | Kreisstaffel] SGM  Sachsenheim - DJK Ludwigsburg
+UID:match_id_352479007
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SG Roßwag/Mühlhausen I\nAuswärts: Spfr. Großsachsenheim I\nOrt: Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen an der Enz
 DTEND:20261003T120000Z
 LOCATION:Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen an der Enz
@@ -816,14 +824,6 @@ LOCATION:Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354
 DTSTART:20261003T100000Z
 SUMMARY:[E-Junioren | Kreisstaffel] Spvgg Besigheim II - Spfr. Großsachsenheim II
 UID:match_id_354983008
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liga: C-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim\nAuswärts: DJK Ludwigsburg\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20261003T150000Z
-LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20261003T130000Z
-SUMMARY:[C-Junioren | Kreisstaffel] SGM  Sachsenheim - DJK Ludwigsburg
-UID:match_id_352479007
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: TSV Merklingen III\nAuswärts: SGM  Sachsenheim III\nOrt: Kunstrasenplatz\, Untere Talstraße 66\, Untere Talstr. 66\, 71263 Weil der Stadt

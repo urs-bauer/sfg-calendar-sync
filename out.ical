@@ -194,6 +194,14 @@ SUMMARY:[C-Junioren | Bezirksfreundschaftsspiele] SGM  Sachsenheim - SGM TSV Obe
 UID:match_id_550016039
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: Herren | Bezirksfreundschaftsspiele\nHeim: SGM Sachsenheim\nAuswärts: TSV Großglattbach\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20260915T190000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20260915T170000Z
+SUMMARY:[Herren | Bezirksfreundschaftsspiele] SGM Sachsenheim - TSV Großglattbach
+UID:match_id_550011505
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: C-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim\nAuswärts: SGM TSV Asperg / Möglingen II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20261010T150000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
@@ -355,9 +363,9 @@ UID:match_id_356195004
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: C-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim\nAuswärts: DJK Ludwigsburg\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20261003T150000Z
+DTEND:20261003T110000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20261003T130000Z
+DTSTART:20261003T090000Z
 SUMMARY:[C-Junioren | Kreisstaffel] SGM  Sachsenheim - DJK Ludwigsburg
 UID:match_id_352479007
 END:VEVENT
