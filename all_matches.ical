@@ -98,9 +98,9 @@ SUMMARY:[Herren | Kreisliga A\; Kreisliga] SGM Sachsenheim - SpVgg Bissingen
 UID:match_id_355935062
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: Herren | Kreisliga A\; Kreisliga\nHeim: SGM TSV Nussdorf/FV Roßwag\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Im Hardwäldle\, Rasen I\, Im Hardwäldle\, 71735 Eberdingen-Nußdorf
+DESCRIPTION:Liga: Herren | Kreisliga A\; Kreisliga\nHeim: SGM TSV Nussdorf/FV Roßwag\nAuswärts: SGM Sachsenheim\nOrt: Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen an der Enz
 DTEND:20261011T150000Z
-LOCATION:Rasenplatz\, Im Hardwäldle\, Rasen I\, Im Hardwäldle\, 71735 Eberdingen-Nußdorf
+LOCATION:Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen an der Enz
 DTSTART:20261011T130000Z
 SUMMARY:[Herren | Kreisliga A\; Kreisliga] SGM TSV Nussdorf/FV Roßwag - SGM Sachsenheim
 UID:match_id_355935027
@@ -786,9 +786,9 @@ SUMMARY:[D-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - FV Kirchheim I
 UID:match_id_350793005
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: C-Junioren | Kreisstaffel\nHeim: SGM Poppenweiler/Affalterbach II\nAuswärts: SGM  Sachsenheim\nOrt: Rasenplatz\, Sportanlage In den Holzäckern Affalterbach\, Holzäcker 1\, 71563 Affalterbach
+DESCRIPTION:Liga: C-Junioren | Kreisstaffel\nHeim: SGM Poppenweiler/Affalterbach II\nAuswärts: SGM  Sachsenheim\nOrt: Kunstrasenplatz\, Lembergblick 11 Kunstrapl.\, Lembergblick 11\, 71642 Ludwigsburg
 DTEND:20260926T150000Z
-LOCATION:Rasenplatz\, Sportanlage In den Holzäckern Affalterbach\, Holzäcker 1\, 71563 Affalterbach
+LOCATION:Kunstrasenplatz\, Lembergblick 11 Kunstrapl.\, Lembergblick 11\, 71642 Ludwigsburg
 DTSTART:20260926T130000Z
 SUMMARY:[C-Junioren | Kreisstaffel] SGM Poppenweiler/Affalterbach II - SGM  Sachsenheim
 UID:match_id_352479004
