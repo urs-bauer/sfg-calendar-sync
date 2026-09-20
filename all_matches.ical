@@ -970,10 +970,10 @@ SUMMARY:[E-Junioren | Kreisstaffel] SGM TuS Freiberg/GSV Pleidelsheim I - Spfr. 
 UID:match_id_351072026
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim II\nAuswärts: SKV Erligheim II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20261107T130000Z
-LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20261107T110000Z
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim II\nAuswärts: SKV Erligheim II\nOrt: Rasenplatz\, Jahnstraße\, Rasen I\, Jahnstr.\, 71706 Markgröningen
+DTEND:20261107T120000Z
+LOCATION:Rasenplatz\, Jahnstraße\, Rasen I\, Jahnstr.\, 71706 Markgröningen
+DTSTART:20261107T100000Z
 SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim II - SKV Erligheim II
 UID:match_id_350964021
 END:VEVENT

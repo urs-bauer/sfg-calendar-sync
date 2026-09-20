@@ -674,6 +674,14 @@ SUMMARY:[Herren | Bezirksfreundschaftsspiele] SGM FC Gündelbach/TSV Häfnerhasl
 UID:match_id_550011225
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim II\nAuswärts: SKV Erligheim II\nOrt: Rasenplatz\, Jahnstraße\, Rasen I\, Jahnstr.\, 71706 Markgröningen
+DTEND:20261107T120000Z
+LOCATION:Rasenplatz\, Jahnstraße\, Rasen I\, Jahnstr.\, 71706 Markgröningen
+DTSTART:20261107T100000Z
+SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim II - SKV Erligheim II
+UID:match_id_350964021
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SV Horrheim I\nAuswärts: Spfr. Großsachsenheim I\nOrt: Rasenplatz\, Neue Schulstraße\, Rasen I\, Neue Schulstr.\, 71665 Vaihingen an der Enz
 DTEND:20261024T120000Z
 LOCATION:Rasenplatz\, Neue Schulstraße\, Rasen I\, Neue Schulstr.\, 71665 Vaihingen an der Enz

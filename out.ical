@@ -59,9 +59,9 @@ UID:match_id_351402047
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim II\nAuswärts: SKV Erligheim II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20261107T130000Z
+DTEND:20261107T120000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20261107T110000Z
+DTSTART:20261107T100000Z
 SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim II - SKV Erligheim II
 UID:match_id_350964021
 END:VEVENT
