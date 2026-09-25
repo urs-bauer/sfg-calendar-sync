@@ -546,14 +546,6 @@ SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim III - FSV 08 Bietigheim-Bis
 UID:match_id_350445004
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: C-Junioren | Kreisstaffel\nHeim: SGM Poppenweiler/Affalterbach II\nAuswärts: SGM  Sachsenheim\nOrt: Kunstrasenplatz\, Lembergblick 11 Kunstrapl.\, Lembergblick 11\, 71642 Ludwigsburg
-DTEND:20260926T150000Z
-LOCATION:Kunstrasenplatz\, Lembergblick 11 Kunstrapl.\, Lembergblick 11\, 71642 Ludwigsburg
-DTSTART:20260926T130000Z
-SUMMARY:[C-Junioren | Kreisstaffel] SGM Poppenweiler/Affalterbach II - SGM  Sachsenheim
-UID:match_id_352479004
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SV Sternenfels\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTEND:20260920T130000Z
 LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
