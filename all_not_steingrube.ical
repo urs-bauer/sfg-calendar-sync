@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SV Horrheim II\nAuswärts: Spfr. Großsachsenheim II\nOrt: Rasenplatz\, Neue Schulstraße\, Rasen I\, Neue Schulstr.\, 71665 Vaihingen an der Enz
+DTEND:20261024T120000Z
+LOCATION:Rasenplatz\, Neue Schulstraße\, Rasen I\, Neue Schulstr.\, 71665 Vaihingen an der Enz
+DTSTART:20261024T100000Z
+SUMMARY:[E-Junioren | Kreisstaffel] SV Horrheim II - Spfr. Großsachsenheim II
+UID:match_id_354983020
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SV Illingen II\nAuswärts: Spfr. Großsachsenheim II\nOrt: Rasenplatz\, Goethestraße 47\, Rasen II\, Goethestr. 47\, 75428 Illingen
 DTEND:20261114T120000Z
 LOCATION:Rasenplatz\, Goethestraße 47\, Rasen II\, Goethestr. 47\, 75428 Illingen
@@ -194,12 +202,12 @@ SUMMARY:[D-Junioren | Bezirksturnier] GSV Erdmannhausen II - SGM  Sachsenheim II
 UID:match_id_560658014
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SV Illingen II\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
-DTEND:20261018T130000Z
-LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
-DTSTART:20261018T110000Z
-SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SV Illingen II
-UID:match_id_351402033
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM  Sachsenheim I\nAuswärts: SGM Roßwag/Mühlhausen\nOrt: Rasenplatz\, Brezel-Arena Platz 2\, Herdweg \, 71729 Erdmannhausen
+DTEND:20261003T132400Z
+LOCATION:Rasenplatz\, Brezel-Arena Platz 2\, Herdweg \, 71729 Erdmannhausen
+DTSTART:20261003T112400Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGM  Sachsenheim I - SGM Roßwag/Mühlhausen
+UID:match_id_560898012
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga A\; Kreisliga\nHeim: SGM Sachsenheim\nAuswärts: SV Illingen\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
@@ -274,20 +282,20 @@ SUMMARY:[D-Junioren | Kreisstaffel] FV Kirchheim II - SGM  Sachsenheim II
 UID:match_id_350970021
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SV Horrheim II\nAuswärts: Spfr. Großsachsenheim II\nOrt: Rasenplatz\, Neue Schulstraße\, Rasen I\, Neue Schulstr.\, 71665 Vaihingen an der Enz
-DTEND:20261024T120000Z
-LOCATION:Rasenplatz\, Neue Schulstraße\, Rasen I\, Neue Schulstr.\, 71665 Vaihingen an der Enz
-DTSTART:20261024T100000Z
-SUMMARY:[E-Junioren | Kreisstaffel] SV Horrheim II - Spfr. Großsachsenheim II
-UID:match_id_354983020
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SpVgg Bissingen I\nAuswärts: Spfr. Großsachsenheim I\nOrt: Kunstrasenplatz\, Kunstrasenplatz Westendstrasse\, Westendstr. 35\, 74321 Bietigheim-Bissingen
 DTEND:20260516T120000Z
 LOCATION:Kunstrasenplatz\, Kunstrasenplatz Westendstrasse\, Westendstr. 35\, 74321 Bietigheim-Bissingen
 DTSTART:20260516T100000Z
 SUMMARY:[E-Junioren | Kreisstaffel] SpVgg Bissingen I - Spfr. Großsachsenheim I
 UID:match_id_351072020
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SV Horrheim I\nAuswärts: Spfr. Großsachsenheim I\nOrt: Rasenplatz\, Neue Schulstraße\, Rasen I\, Neue Schulstr.\, 71665 Vaihingen an der Enz
+DTEND:20261024T120000Z
+LOCATION:Rasenplatz\, Neue Schulstraße\, Rasen I\, Neue Schulstr.\, 71665 Vaihingen an der Enz
+DTSTART:20261024T100000Z
+SUMMARY:[E-Junioren | Kreisstaffel] SV Horrheim I - Spfr. Großsachsenheim I
+UID:match_id_355101020
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SGM Roßwag/Mühlhausen I\nAuswärts: Spfr. Großsachsenheim II\nOrt: Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen an der Enz
@@ -426,12 +434,12 @@ SUMMARY:[D-Junioren | Bezirksturnier] SGM  Sachsenheim II - SpVgg Bissingen II
 UID:match_id_560658008
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: TV Aldingen 1898 e.V. III\nAuswärts: SGM  Sachsenheim III\nOrt: Kunstrasenplatz\, Kunstrasen TV Aldingen\, Neckarkanalstr. 41\, 71686 Remseck am Neckar
-DTEND:20261107T110000Z
-LOCATION:Kunstrasenplatz\, Kunstrasen TV Aldingen\, Neckarkanalstr. 41\, 71686 Remseck am Neckar
-DTSTART:20261107T090000Z
-SUMMARY:[D-Junioren | Kreisstaffel] TV Aldingen 1898 e.V. III - SGM  Sachsenheim III
-UID:match_id_350445022
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM TSV Schafhausen/Spvgg Weil der Stadt I\nAuswärts: SGM  Sachsenheim I\nOrt: Rasenplatz\, Brezel-Arena Platz 2\, Herdweg \, 71729 Erdmannhausen
+DTEND:20261003T121200Z
+LOCATION:Rasenplatz\, Brezel-Arena Platz 2\, Herdweg \, 71729 Erdmannhausen
+DTSTART:20261003T101200Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGM TSV Schafhausen/Spvgg Weil der Stadt I - SGM  Sachsenheim I
+UID:match_id_560898009
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: TSV Ensingen II\nAuswärts: SGM Sachsenheim II\nOrt: Rasenplatz\, Gündelbacherstraße 59\, Gündelbacher Str. 59\, 71665 Vaihingen an der Enz
@@ -618,6 +626,14 @@ SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim II - spielfrei
 UID:match_id_354983009
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: TV Aldingen 1898 e.V. III\nAuswärts: SGM  Sachsenheim III\nOrt: Kunstrasenplatz\, Kunstrasen TV Aldingen\, Neckarkanalstr. 41\, 71686 Remseck am Neckar
+DTEND:20261107T110000Z
+LOCATION:Kunstrasenplatz\, Kunstrasen TV Aldingen\, Neckarkanalstr. 41\, 71686 Remseck am Neckar
+DTSTART:20261107T090000Z
+SUMMARY:[D-Junioren | Kreisstaffel] TV Aldingen 1898 e.V. III - SGM  Sachsenheim III
+UID:match_id_350445022
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Kreisleistungsstaffel\nHeim: SpVgg Renningen I\nAuswärts: SGM   Sachsenheim\nOrt: Kunstrasenplatz\, Sportpark Stegwiesen\, Sportpark Stegwiesen\, 71272 Renningen
 DTEND:20261114T173000Z
 LOCATION:Kunstrasenplatz\, Sportpark Stegwiesen\, Sportpark Stegwiesen\, 71272 Renningen
@@ -674,12 +690,12 @@ SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim II - SKV Erligheim II
 UID:match_id_350964021
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SV Horrheim I\nAuswärts: Spfr. Großsachsenheim I\nOrt: Rasenplatz\, Neue Schulstraße\, Rasen I\, Neue Schulstr.\, 71665 Vaihingen an der Enz
-DTEND:20261024T120000Z
-LOCATION:Rasenplatz\, Neue Schulstraße\, Rasen I\, Neue Schulstr.\, 71665 Vaihingen an der Enz
-DTSTART:20261024T100000Z
-SUMMARY:[E-Junioren | Kreisstaffel] SV Horrheim I - Spfr. Großsachsenheim I
-UID:match_id_355101020
+DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SV Illingen II\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTEND:20261018T130000Z
+LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
+DTSTART:20261018T110000Z
+SUMMARY:[Herren | Kreisliga B] SGM Sachsenheim II - SV Illingen II
+UID:match_id_351402033
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: C-Junioren | Kreisstaffel\nHeim: MTV 1846 Ludwigsburg III\nAuswärts: SGM  Sachsenheim\nOrt: Kunstrasenplatz\, MTV Kunstrasenplatz 3\, Fuchshofstr. 60\, 71638 Ludwigsburg
@@ -714,6 +730,14 @@ SUMMARY:[Herren | Kreisliga B] SGM TSV Nussdorf/FV Roßwag II - SGM Sachsenheim 
 UID:match_id_351402027
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM  Sachsenheim I\nAuswärts: SGM VfB Neckarrems/SKV Hochberg/SGV Hochdorf I\nOrt: Rasenplatz\, Brezel-Arena Platz 2\, Herdweg \, 71729 Erdmannhausen
+DTEND:20261003T090000Z
+LOCATION:Rasenplatz\, Brezel-Arena Platz 2\, Herdweg \, 71729 Erdmannhausen
+DTSTART:20261003T070000Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGM  Sachsenheim I - SGM VfB Neckarrems/SKV Hochberg/SGV Hochdorf I
+UID:match_id_560898001
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM  Sachsenheim II\nAuswärts: FV Ingersheim I\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
 DTEND:20260919T154400Z
 LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
@@ -722,11 +746,35 @@ SUMMARY:[D-Junioren | Bezirksturnier] SGM  Sachsenheim II - FV Ingersheim I
 UID:match_id_560658003
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM  Sachsenheim I\nAuswärts: SGM TSV Schafhausen/Spvgg Weil der Stadt I\nOrt: Rasenplatz\, Brezel-Arena Platz 2\, Herdweg \, 71729 Erdmannhausen
+DTEND:20261003T094800Z
+LOCATION:Rasenplatz\, Brezel-Arena Platz 2\, Herdweg \, 71729 Erdmannhausen
+DTSTART:20261003T074800Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGM  Sachsenheim I - SGM TSV Schafhausen/Spvgg Weil der Stadt I
+UID:match_id_560898003
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGV Murr I\nAuswärts: SGM  Sachsenheim II\nOrt: Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
 DTEND:20260919T162000Z
 LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Beihinger Str.\, 71726 Benningen am Neckar
 DTSTART:20260919T142000Z
 SUMMARY:[D-Junioren | Bezirksturnier] SGV Murr I - SGM  Sachsenheim II
 UID:match_id_560658006
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM Roßwag/Mühlhausen\nAuswärts: SGM  Sachsenheim I\nOrt: Rasenplatz\, Brezel-Arena Platz 2\, Herdweg \, 71729 Erdmannhausen
+DTEND:20261003T110000Z
+LOCATION:Rasenplatz\, Brezel-Arena Platz 2\, Herdweg \, 71729 Erdmannhausen
+DTSTART:20261003T090000Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGM Roßwag/Mühlhausen - SGM  Sachsenheim I
+UID:match_id_560898006
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Bezirksturnier\nHeim: SGM VfB Neckarrems/SKV Hochberg/SGV Hochdorf I\nAuswärts: SGM  Sachsenheim I\nOrt: Rasenplatz\, Brezel-Arena Platz 2\, Herdweg \, 71729 Erdmannhausen
+DTEND:20261003T112400Z
+LOCATION:Rasenplatz\, Brezel-Arena Platz 2\, Herdweg \, 71729 Erdmannhausen
+DTSTART:20261003T092400Z
+SUMMARY:[D-Junioren | Bezirksturnier] SGM VfB Neckarrems/SKV Hochberg/SGV Hochdorf I - SGM  Sachsenheim I
+UID:match_id_560898007
 END:VEVENT
 END:VCALENDAR
