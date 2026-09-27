@@ -650,6 +650,14 @@ SUMMARY:[D-Junioren | Bezirksfreundschaftsspiele] SGM  Sachsenheim I - ELBO Cup 
 UID:match_id_550068491
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: B-Junioren | Bezirkspokal\nHeim: SV Sternenfels\nAuswärts: SGM   Sachsenheim\nOrt: Rasenplatz\, Am Sandberg\, Rasen I\, Sandberg\, 75447 Sternenfels
+DTEND:20261007T190000Z
+LOCATION:Rasenplatz\, Am Sandberg\, Rasen I\, Sandberg\, 75447 Sternenfels
+DTSTART:20261007T170000Z
+SUMMARY:[B-Junioren | Bezirkspokal] SV Sternenfels - SGM   Sachsenheim
+UID:match_id_950211013
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Landesfreundschaftsspiele\nHeim: DJK Ludwigsburg I\nAuswärts: SGM   Sachsenheim\nOrt: Rasenplatz\, Metterstrasse\, Metterstr.\, 71665 Vaihingen an der Enz
 DTEND:20260725T110000Z
 LOCATION:Rasenplatz\, Metterstrasse\, Metterstr.\, 71665 Vaihingen an der Enz
