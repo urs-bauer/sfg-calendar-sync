@@ -402,6 +402,14 @@ SUMMARY:[C-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - SGV Murr I
 UID:match_id_352036045
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: C-Junioren | Bezirkspokal\nHeim: SGM  Sachsenheim\nAuswärts: SV Sal. Kornwestheim I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20261007T190000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20261007T170000Z
+SUMMARY:[C-Junioren | Bezirkspokal] SGM  Sachsenheim - SV Sal. Kornwestheim I
+UID:match_id_950205039
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SGM FC Gündelbach/TSV Häfnerhaslach\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20261101T133000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh

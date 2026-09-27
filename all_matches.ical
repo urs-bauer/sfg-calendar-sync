@@ -890,6 +890,14 @@ SUMMARY:[D-Junioren | Kreisleistungsstaffel] SV Germania Bietigheim I - SGM  Sac
 UID:match_id_350793016
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: C-Junioren | Bezirkspokal\nHeim: SGM  Sachsenheim\nAuswärts: SV Sal. Kornwestheim I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20261007T190000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20261007T170000Z
+SUMMARY:[C-Junioren | Bezirkspokal] SGM  Sachsenheim - SV Sal. Kornwestheim I
+UID:match_id_950205039
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim III\nAuswärts: SV Leonberg/Eltingen III\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTEND:20261017T120000Z
 LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
