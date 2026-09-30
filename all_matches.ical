@@ -794,9 +794,9 @@ SUMMARY:[D-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - FV Kirchheim I
 UID:match_id_350793005
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: C-Junioren | Kreisstaffel\nHeim: SGM Poppenweiler/Affalterbach II\nAuswärts: SGM  Sachsenheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DESCRIPTION:Liga: C-Junioren | Kreisstaffel\nHeim: SGM Poppenweiler/Affalterbach II\nAuswärts: SGM  Sachsenheim\nOrt: Kunstrasenplatz\, Lembergblick 11 Kunstrapl.\, Lembergblick 11\, 71642 Ludwigsburg
 DTEND:20260926T150000Z
-LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+LOCATION:Kunstrasenplatz\, Lembergblick 11 Kunstrapl.\, Lembergblick 11\, 71642 Ludwigsburg
 DTSTART:20260926T130000Z
 SUMMARY:[C-Junioren | Kreisstaffel] SGM Poppenweiler/Affalterbach II - SGM  Sachsenheim
 UID:match_id_352479004
@@ -938,9 +938,17 @@ SUMMARY:[B-Junioren | Landesfreundschaftsspiele] DJK Ludwigsburg I - SGM   Sachs
 UID:match_id_550023233
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: B-Junioren | Kreisleistungsstaffel\nHeim: SKV Rutesheim II\nAuswärts: SGM   Sachsenheim\nOrt: Kunstrasenplatz\, Stadion SKV Rutesheim\, Robert-Bosch-Str. 55\, 71277 Rutesheim
+DESCRIPTION:Liga: B-Junioren | Kreisleistungsstaffel\nHeim: SKV Rutesheim II\nAuswärts: SGM   Sachsenheim\nOrt: Kunstrasenplatz\, Kunstrasenplatz SKV Rutesheim\, Robert-Bosch-Str. 55\, 71277 Rutesheim
+DTEND:20261024T173000Z
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz SKV Rutesheim\, Robert-Bosch-Str. 55\, 71277 Rutesheim
+DTSTART:20261024T153000Z
+SUMMARY:[B-Junioren | Kreisleistungsstaffel] SKV Rutesheim II - SGM   Sachsenheim
+UID:match_id_356195022
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: B-Junioren | Kreisleistungsstaffel\nHeim: SKV Rutesheim II\nAuswärts: SGM   Sachsenheim\nOrt: Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der Enz
 DTEND:20261025T113000Z
-LOCATION:Kunstrasenplatz\, Stadion SKV Rutesheim\, Robert-Bosch-Str. 55\, 71277 Rutesheim
+LOCATION:Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der Enz
 DTSTART:20261025T093000Z
 SUMMARY:[B-Junioren | Kreisleistungsstaffel] SKV Rutesheim II - SGM   Sachsenheim
 UID:match_id_356195022
