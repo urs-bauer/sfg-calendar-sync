@@ -755,9 +755,9 @@ UID:match_id_355101026
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM TSV Nussdorf/FV Roßwag II\nAuswärts: SGM Sachsenheim II\nOrt: Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen an der Enz
-DTEND:20261011T130000Z
+DTEND:20261011T124500Z
 LOCATION:Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen an der Enz
-DTSTART:20261011T110000Z
+DTSTART:20261011T104500Z
 SUMMARY:[Herren | Kreisliga B] SGM TSV Nussdorf/FV Roßwag II - SGM Sachsenheim II
 UID:match_id_351402027
 END:VEVENT
