@@ -482,6 +482,14 @@ SUMMARY:[B-Junioren | Kreisleistungsstaffel] SGM Hirschl.-Schöck./Heimerd. - SG
 UID:match_id_356195010
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: C-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim\nAuswärts: SGM TSV Asperg / Möglingen II\nOrt: Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen an der Enz
+DTEND:20261010T150000Z
+LOCATION:Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen an der Enz
+DTSTART:20261010T130000Z
+SUMMARY:[C-Junioren | Kreisstaffel] SGM  Sachsenheim - SGM TSV Asperg / Möglingen II
+UID:match_id_352479011
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim III\nAuswärts: SV Leonberg/Eltingen III\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTEND:20261017T120000Z
 LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
@@ -506,20 +514,20 @@ SUMMARY:[D-Junioren | Kreisstaffel] Spvgg Besigheim II - SGM  Sachsenheim II
 UID:match_id_350964014
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: TV Pflugfelden III\nAuswärts: SGM  Sachsenheim III\nOrt: Kunstrasenplatz\, Kleines Feldle Kunstrapl.\, Kleines Feldle\, 71636 Ludwigsburg
-DTEND:20261024T110000Z
-LOCATION:Kunstrasenplatz\, Kleines Feldle Kunstrapl.\, Kleines Feldle\, 71636 Ludwigsburg
-DTSTART:20261024T090000Z
-SUMMARY:[D-Junioren | Kreisstaffel] TV Pflugfelden III - SGM  Sachsenheim III
-UID:match_id_350445016
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SGM TSV Enzweihingen/Vaihingen Süd II\nAuswärts: Spfr. Großsachsenheim II\nOrt: Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der Enz
 DTEND:20260516T120000Z
 LOCATION:Rasenplatz\, An der Enz Pl. 1\, Bruckenwasen 5\, 71665 Vaihingen an der Enz
 DTSTART:20260516T100000Z
 SUMMARY:[E-Junioren | Kreisstaffel] SGM TSV Enzweihingen/Vaihingen Süd II - Spfr. Großsachsenheim II
 UID:match_id_355102018
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: TV Pflugfelden III\nAuswärts: SGM  Sachsenheim III\nOrt: Kunstrasenplatz\, Kleines Feldle Kunstrapl.\, Kleines Feldle\, 71636 Ludwigsburg
+DTEND:20261024T110000Z
+LOCATION:Kunstrasenplatz\, Kleines Feldle Kunstrapl.\, Kleines Feldle\, 71636 Ludwigsburg
+DTSTART:20261024T090000Z
+SUMMARY:[D-Junioren | Kreisstaffel] TV Pflugfelden III - SGM  Sachsenheim III
+UID:match_id_350445016
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: SV Germania Bietigheim I\nAuswärts: SGM  Sachsenheim I\nOrt: Kunstrasenplatz\, Kleinspielfeld Ellental\, Im Ellental\, 74321 Bietigheim-Bissingen
