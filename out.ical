@@ -203,9 +203,9 @@ UID:match_id_550011505
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: TSV Kleinglattbach\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20261017T133000Z
+DTEND:20261017T180000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20261017T113000Z
+DTSTART:20261017T160000Z
 SUMMARY:[D-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - TSV Kleinglattbach
 UID:match_id_350793015
 END:VEVENT
@@ -368,6 +368,14 @@ LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTSTART:20261017T100000Z
 SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim II - SV Germania Bietigheim II
 UID:match_id_350964009
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: TSV Kleinglattbach\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20261102T190000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20261102T170000Z
+SUMMARY:[D-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - TSV Kleinglattbach
+UID:match_id_350793015
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: B-Junioren | Bezirksfreundschaftsspiele\nHeim: SGM   Sachsenheim\nAuswärts: TSV Bönnigheim\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh

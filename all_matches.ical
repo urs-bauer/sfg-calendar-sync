@@ -883,9 +883,17 @@ UID:match_id_356195034
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: TSV Kleinglattbach\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTEND:20261017T133000Z
+DTEND:20261017T180000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
-DTSTART:20261017T113000Z
+DTSTART:20261017T160000Z
+SUMMARY:[D-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - TSV Kleinglattbach
+UID:match_id_350793015
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisleistungsstaffel\nHeim: SGM  Sachsenheim I\nAuswärts: TSV Kleinglattbach\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20261102T190000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20261102T170000Z
 SUMMARY:[D-Junioren | Kreisleistungsstaffel] SGM  Sachsenheim I - TSV Kleinglattbach
 UID:match_id_350793015
 END:VEVENT
