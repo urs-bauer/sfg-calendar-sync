@@ -1122,10 +1122,18 @@ SUMMARY:[D-Junioren | Bezirksturnier] SGM  Sachsenheim I - SGV Heilbronn-Freiber
 UID:match_id_560657007
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: Spvgg Besigheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: Spvgg Besigheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Kunstrasenplatz\, Kleines Feldle Kunstrapl.\, Kleines Feldle\, 71636 Ludwigsburg
 DTEND:20261024T110000Z
-LOCATION:Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
+LOCATION:Kunstrasenplatz\, Kleines Feldle Kunstrapl.\, Kleines Feldle\, 71636 Ludwigsburg
 DTSTART:20261024T090000Z
+SUMMARY:[D-Junioren | Kreisstaffel] Spvgg Besigheim II - SGM  Sachsenheim II
+UID:match_id_350964014
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: Spvgg Besigheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
+DTEND:20261102T183000Z
+LOCATION:Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
+DTSTART:20261102T163000Z
 SUMMARY:[D-Junioren | Kreisstaffel] Spvgg Besigheim II - SGM  Sachsenheim II
 UID:match_id_350964014
 END:VEVENT

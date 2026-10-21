@@ -522,9 +522,9 @@ SUMMARY:[E-Junioren | Kreisstaffel] SGM TSV Enzweihingen/Vaihingen Süd II - Spf
 UID:match_id_355102018
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: Spvgg Besigheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: Spvgg Besigheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Kunstrasenplatz\, Kleines Feldle Kunstrapl.\, Kleines Feldle\, 71636 Ludwigsburg
 DTEND:20261024T110000Z
-LOCATION:Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
+LOCATION:Kunstrasenplatz\, Kleines Feldle Kunstrapl.\, Kleines Feldle\, 71636 Ludwigsburg
 DTSTART:20261024T090000Z
 SUMMARY:[D-Junioren | Kreisstaffel] Spvgg Besigheim II - SGM  Sachsenheim II
 UID:match_id_350964014
@@ -760,6 +760,14 @@ LOCATION:Rasenplatz\, Im Zwergberg\, Zwergberg\, 75446 Wiernsheim
 DTSTART:20261114T110000Z
 SUMMARY:[E-Junioren | Kreisstaffel] SGM Iptingen/JSG Kreuzbach I - Spfr. Großsachsenheim I
 UID:match_id_355101026
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: Spvgg Besigheim II\nAuswärts: SGM  Sachsenheim II\nOrt: Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
+DTEND:20261102T183000Z
+LOCATION:Kunstrasenplatz\, Kunstrasen SpVgg Besigheim\, Am Linnbrünnele\, 74354 Besigheim
+DTSTART:20261102T163000Z
+SUMMARY:[D-Junioren | Kreisstaffel] Spvgg Besigheim II - SGM  Sachsenheim II
+UID:match_id_350964014
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM TSV Nussdorf/FV Roßwag II\nAuswärts: SGM Sachsenheim II\nOrt: Rasenplatz\, Manfred-Behr-Straße\, Manfred-Behr-Str.\, 71665 Vaihingen an der Enz
