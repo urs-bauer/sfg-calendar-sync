@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SV Horrheim II\nAuswärts: Spfr. Großsachsenheim II\nOrt: Rasenplatz\, Neue Schulstraße\, Rasen I\, Neue Schulstr.\, 71665 Vaihingen an der Enz
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: SV Horrheim II\nAuswärts: Spfr. Großsachsenheim II\nOrt: Kunstrasenplatz\, Kleinspielfeld Ellental\, Im Ellental\, 74321 Bietigheim-Bissingen
 DTEND:20261024T120000Z
-LOCATION:Rasenplatz\, Neue Schulstraße\, Rasen I\, Neue Schulstr.\, 71665 Vaihingen an der Enz
+LOCATION:Kunstrasenplatz\, Kleinspielfeld Ellental\, Im Ellental\, 74321 Bietigheim-Bissingen
 DTSTART:20261024T100000Z
 SUMMARY:[E-Junioren | Kreisstaffel] SV Horrheim II - Spfr. Großsachsenheim II
 UID:match_id_354983020
