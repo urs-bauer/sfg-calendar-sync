@@ -74,6 +74,14 @@ SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim III - FV Markgröningen III
 UID:match_id_351625021
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim II\nAuswärts: SV Horrheim II\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTEND:20261104T183000Z
+LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
+DTSTART:20261104T163000Z
+SUMMARY:[E-Junioren | Kreisstaffel] Spfr. Großsachsenheim II - SV Horrheim II
+UID:match_id_354983020
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Liga: E-Junioren | Kreisstaffel\nHeim: Spfr. Großsachsenheim I\nAuswärts: SV Freudental I\nOrt: In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
 DTEND:20260613T120000Z
 LOCATION:In der Steingrube 1\, 74343 Sachsenheim-Großsachsenh
