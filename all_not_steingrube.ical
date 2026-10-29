@@ -234,14 +234,6 @@ SUMMARY:[Herren | Kreisliga A\; Kreisliga] SGM Vaihingen/Enzweihingen - SGM Sach
 UID:match_id_355935036
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Liga: D-Junioren | Kreisstaffel\nHeim: SGM  Sachsenheim III\nAuswärts: SV Sal. Kornwestheim III\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
-DTEND:20261031T130000Z
-LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
-DTSTART:20261031T110000Z
-SUMMARY:[D-Junioren | Kreisstaffel] SGM  Sachsenheim III - SV Sal. Kornwestheim III
-UID:match_id_350445020
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Liga: Herren | Kreisliga B\nHeim: SGM Sachsenheim II\nAuswärts: SV Iptingen II\nOrt: Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
 DTEND:20260503T130000Z
 LOCATION:Rasen I\, Löchgauer Str. 60\, 74343 Sachsenheim
